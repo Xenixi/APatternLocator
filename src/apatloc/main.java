@@ -100,22 +100,25 @@ public class main {
 
 			}
 			for (Entry<String, List<Integer[]>> e : foundItemsGlobal.entrySet()) {
-				System.out.println("*****");
+				//System.out.println("~~~~~\n");
 				System.out.println("Occurences " + ((List<Integer[]>) e.getValue()).size() + " // '"
 						+ ((String) e.getKey()) + "'");
 				
 				StringBuilder sb = new StringBuilder();
 				List<Integer[]> details = ((List<Integer[]>)e.getValue());
 				for(Integer[] detail : details) {
+					//add 1 to all of them to convert from starting at index 0 to starting at char 1
+					
 					sb.append("::");
-					sb.append("\nLine " + detail[0]);
-					sb.append("\nSection" + detail[1]);
-					sb.append("\nStarts At " + detail[2]);
-					sb.append("\nEnds At " + detail[3]);
+					sb.append("\nLine " + detail[0]+1);
+					sb.append("\nSection " + detail[1]+1);
+					sb.append("\nStarts At " + detail[2]+1);
+					sb.append("\nEnds At " + detail[3]+1);
+					sb.append("\n");
 					
 				}
-				System.out.println("Found at: ");
-				System.out.println("*****\n");
+				System.out.println("Found at:\n" + sb.toString());
+				System.out.println("=====\n\n");
 			}
 
 		} catch (FileNotFoundException e) {
