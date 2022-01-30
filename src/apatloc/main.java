@@ -4,9 +4,10 @@
 * ------------------------*/
 package apatloc;
 
-import java.awt.Point;
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -23,7 +24,7 @@ public class main {
 
 			// add file stuff here
 
-			File f = new File("S:/DATASETS/kaggleavocadoshort.csv");
+			File f = new File("S:/DATASETS/kaggleavocadoShort.csv");
 
 			// line mode
 
@@ -99,30 +100,52 @@ public class main {
 				}
 
 			}
+			//print out
+			File output = new File("output_" + System.currentTimeMillis() + ".log");
+			if(!output.exists()) {
+				output.createNewFile();
+			}
+			FileWriter fw = new FileWriter(output);
+			
+			fw.append("APatternLocator Log:\n");
+			
 			for (Entry<String, List<Integer[]>> e : foundItemsGlobal.entrySet()) {
-				//System.out.println("~~~~~\n");
+				// System.out.println("~~~~~\n");
 				System.out.println("Occurences " + ((List<Integer[]>) e.getValue()).size() + " // '"
 						+ ((String) e.getKey()) + "'");
 				
+				fw.append("Occurences " + ((List<Integer[]>) e.getValue()).size() + " // '"
+						+ ((String) e.getKey()) + "'" + "\n");
+
 				StringBuilder sb = new StringBuilder();
-				List<Integer[]> details = ((List<Integer[]>)e.getValue());
-				for(Integer[] detail : details) {
-					//add 1 to all of them to convert from starting at index 0 to starting at char 1
-					
+				List<Integer[]> details = ((List<Integer[]>) e.getValue());
+				for (Integer[] detail : details) {
+					// add 1 to all of them to convert from starting at index 0 to starting at char
+					// 1
+
 					sb.append("::");
-					sb.append("\nLine " + detail[0]+1);
-					sb.append("\nSection " + detail[1]+1);
-					sb.append("\nStarts At " + detail[2]+1);
-					sb.append("\nEnds At " + detail[3]+1);
+					sb.append("\nLine " + detail[0] + 1);
+					sb.append("\nSection " + detail[1] + 1);
+					sb.append("\nStarts At " + detail[2] + 1);
+					sb.append("\nEnds At " + detail[3] + 1);
 					sb.append("\n");
-					
+
 				}
 				System.out.println("Found at:\n" + sb.toString());
+				
 				System.out.println("=====\n\n");
+				
+				fw.append("Found at:\n" + sb.toString() + "\n");
+				fw.append("=====\n\n" + "\n");
 			}
+			fw.flush();
+			fw.close();
 
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
 		}
 
 	}
