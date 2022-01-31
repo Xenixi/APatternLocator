@@ -1,0 +1,12571 @@
+APatternLocator Log:
+Occurences 14 // '01'
+Found at:
+::
+Line 11
+Section 11
+Starts At 11
+Ends At 31
+::
+Line 11
+Section 121
+Starts At 11
+Ends At 31
+::
+Line 21
+Section 11
+Starts At 11
+Ends At 31
+::
+Line 21
+Section 121
+Starts At 11
+Ends At 31
+::
+Line 31
+Section 11
+Starts At 11
+Ends At 31
+::
+Line 31
+Section 121
+Starts At 11
+Ends At 31
+::
+Line 41
+Section 11
+Starts At 11
+Ends At 31
+::
+Line 41
+Section 121
+Starts At 11
+Ends At 31
+::
+Line 51
+Section 11
+Starts At 11
+Ends At 31
+::
+Line 51
+Section 121
+Starts At 11
+Ends At 31
+::
+Line 61
+Section 11
+Starts At 11
+Ends At 31
+::
+Line 61
+Section 121
+Starts At 11
+Ends At 31
+::
+Line 71
+Section 11
+Starts At 11
+Ends At 31
+::
+Line 71
+Section 121
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 2 // '8.8'
+Found at:
+::
+Line 21
+Section 51
+Starts At 41
+Ends At 71
+::
+Line 71
+Section 71
+Starts At 31
+Ends At 61
+
+=====
+
+
+Occurences 4 // '03'
+Found at:
+::
+Line 11
+Section 41
+Starts At 11
+Ends At 31
+::
+Line 11
+Section 81
+Starts At 21
+Ends At 41
+::
+Line 31
+Section 91
+Starts At 11
+Ends At 31
+::
+Line 51
+Section 31
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 2 // '04'
+Found at:
+::
+Line 01
+Section 41
+Starts At 11
+Ends At 31
+::
+Line 31
+Section 81
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 2 // '05'
+Found at:
+::
+Line 21
+Section 71
+Starts At 21
+Ends At 41
+::
+Line 71
+Section 91
+Starts At 41
+Ends At 61
+
+=====
+
+
+Occurences 2 // '06'
+Found at:
+::
+Line 41
+Section 11
+Starts At 81
+Ends At 101
+::
+Line 61
+Section 51
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 2 // '08'
+Found at:
+::
+Line 21
+Section 81
+Starts At 21
+Ends At 41
+::
+Line 41
+Section 21
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 8 // 'ion'
+Found at:
+::
+Line 01
+Section 131
+Starts At 31
+Ends At 61
+::
+Line 11
+Section 111
+Starts At 71
+Ends At 101
+::
+Line 21
+Section 111
+Starts At 71
+Ends At 101
+::
+Line 31
+Section 111
+Starts At 71
+Ends At 101
+::
+Line 41
+Section 111
+Starts At 71
+Ends At 101
+::
+Line 51
+Section 111
+Starts At 71
+Ends At 101
+::
+Line 61
+Section 111
+Starts At 71
+Ends At 101
+::
+Line 71
+Section 111
+Starts At 71
+Ends At 101
+
+=====
+
+
+Occurences 7 // '2015-1'
+Found at:
+::
+Line 11
+Section 11
+Starts At 01
+Ends At 61
+::
+Line 21
+Section 11
+Starts At 01
+Ends At 61
+::
+Line 31
+Section 11
+Starts At 01
+Ends At 61
+::
+Line 41
+Section 11
+Starts At 01
+Ends At 61
+::
+Line 51
+Section 11
+Starts At 01
+Ends At 61
+::
+Line 61
+Section 11
+Starts At 01
+Ends At 61
+::
+Line 71
+Section 11
+Starts At 01
+Ends At 61
+
+=====
+
+
+Occurences 3 // '11-'
+Found at:
+::
+Line 51
+Section 11
+Starts At 51
+Ends At 81
+::
+Line 61
+Section 11
+Starts At 51
+Ends At 81
+::
+Line 71
+Section 11
+Starts At 51
+Ends At 81
+
+=====
+
+
+Occurences 7 // 'ban'
+Found at:
+::
+Line 11
+Section 131
+Starts At 21
+Ends At 51
+::
+Line 21
+Section 131
+Starts At 21
+Ends At 51
+::
+Line 31
+Section 131
+Starts At 21
+Ends At 51
+::
+Line 41
+Section 131
+Starts At 21
+Ends At 51
+::
+Line 51
+Section 131
+Starts At 21
+Ends At 51
+::
+Line 61
+Section 131
+Starts At 21
+Ends At 51
+::
+Line 71
+Section 131
+Starts At 21
+Ends At 51
+
+=====
+
+
+Occurences 7 // 'lban'
+Found at:
+::
+Line 11
+Section 131
+Starts At 11
+Ends At 51
+::
+Line 21
+Section 131
+Starts At 11
+Ends At 51
+::
+Line 31
+Section 131
+Starts At 11
+Ends At 51
+::
+Line 41
+Section 131
+Starts At 11
+Ends At 51
+::
+Line 51
+Section 131
+Starts At 11
+Ends At 51
+::
+Line 61
+Section 131
+Starts At 11
+Ends At 51
+::
+Line 71
+Section 131
+Starts At 11
+Ends At 51
+
+=====
+
+
+Occurences 2 // '015-12-2'
+Found at:
+::
+Line 11
+Section 11
+Starts At 11
+Ends At 91
+::
+Line 21
+Section 11
+Starts At 11
+Ends At 91
+
+=====
+
+
+Occurences 7 // 'conve'
+Found at:
+::
+Line 11
+Section 111
+Starts At 01
+Ends At 51
+::
+Line 21
+Section 111
+Starts At 01
+Ends At 51
+::
+Line 31
+Section 111
+Starts At 01
+Ends At 51
+::
+Line 41
+Section 111
+Starts At 01
+Ends At 51
+::
+Line 51
+Section 111
+Starts At 01
+Ends At 51
+::
+Line 61
+Section 111
+Starts At 01
+Ends At 51
+::
+Line 71
+Section 111
+Starts At 01
+Ends At 51
+
+=====
+
+
+Occurences 2 // '118'
+Found at:
+::
+Line 31
+Section 31
+Starts At 01
+Ends At 31
+::
+Line 61
+Section 41
+Starts At 01
+Ends At 31
+
+=====
+
+
+Occurences 3 // '1-'
+Found at:
+::
+Line 51
+Section 11
+Starts At 61
+Ends At 81
+::
+Line 61
+Section 11
+Starts At 61
+Ends At 81
+::
+Line 71
+Section 11
+Starts At 61
+Ends At 81
+
+=====
+
+
+Occurences 2 // '83.9'
+Found at:
+::
+Line 51
+Section 71
+Starts At 21
+Ends At 61
+::
+Line 61
+Section 71
+Starts At 21
+Ends At 61
+
+=====
+
+
+Occurences 7 // '1.'
+Found at:
+::
+Line 11
+Section 21
+Starts At 01
+Ends At 21
+::
+Line 21
+Section 21
+Starts At 01
+Ends At 21
+::
+Line 41
+Section 21
+Starts At 01
+Ends At 21
+::
+Line 41
+Section 71
+Starts At 31
+Ends At 51
+::
+Line 51
+Section 21
+Starts At 01
+Ends At 21
+::
+Line 51
+Section 41
+Starts At 21
+Ends At 41
+::
+Line 61
+Section 21
+Starts At 01
+Ends At 21
+
+=====
+
+
+Occurences 4 // '10'
+Found at:
+::
+Line 11
+Section 41
+Starts At 01
+Ends At 21
+::
+Line 31
+Section 51
+Starts At 01
+Ends At 21
+::
+Line 31
+Section 91
+Starts At 01
+Ends At 21
+::
+Line 51
+Section 31
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 7 // 'Albany'
+Found at:
+::
+Line 11
+Section 131
+Starts At 01
+Ends At 61
+::
+Line 21
+Section 131
+Starts At 01
+Ends At 61
+::
+Line 31
+Section 131
+Starts At 01
+Ends At 61
+::
+Line 41
+Section 131
+Starts At 01
+Ends At 61
+::
+Line 51
+Section 131
+Starts At 01
+Ends At 61
+::
+Line 61
+Section 131
+Starts At 01
+Ends At 61
+::
+Line 71
+Section 131
+Starts At 01
+Ends At 61
+
+=====
+
+
+Occurences 5 // ' '
+Found at:
+::
+Line 01
+Section 31
+Starts At 51
+Ends At 61
+::
+Line 01
+Section 71
+Starts At 51
+Ends At 61
+::
+Line 01
+Section 81
+Starts At 51
+Ends At 61
+::
+Line 01
+Section 91
+Starts At 51
+Ends At 61
+::
+Line 01
+Section 101
+Starts At 61
+Ends At 71
+
+=====
+
+
+Occurences 7 // '11'
+Found at:
+::
+Line 31
+Section 31
+Starts At 01
+Ends At 21
+::
+Line 41
+Section 41
+Starts At 01
+Ends At 21
+::
+Line 41
+Section 71
+Starts At 21
+Ends At 41
+::
+Line 51
+Section 11
+Starts At 51
+Ends At 71
+::
+Line 61
+Section 11
+Starts At 51
+Ends At 71
+::
+Line 61
+Section 41
+Starts At 01
+Ends At 21
+::
+Line 71
+Section 11
+Starts At 51
+Ends At 71
+
+=====
+
+
+Occurences 6 // '12'
+Found at:
+::
+Line 11
+Section 11
+Starts At 51
+Ends At 71
+::
+Line 21
+Section 11
+Starts At 51
+Ends At 71
+::
+Line 31
+Section 11
+Starts At 51
+Ends At 71
+::
+Line 41
+Section 11
+Starts At 51
+Ends At 71
+::
+Line 61
+Section 91
+Starts At 01
+Ends At 21
+::
+Line 71
+Section 91
+Starts At 01
+Ends At 21
+
+=====
+
+
+Occurences 4 // ' B'
+Found at:
+::
+Line 01
+Section 71
+Starts At 51
+Ends At 71
+::
+Line 01
+Section 81
+Starts At 51
+Ends At 71
+::
+Line 01
+Section 91
+Starts At 51
+Ends At 71
+::
+Line 01
+Section 101
+Starts At 61
+Ends At 81
+
+=====
+
+
+Occurences 5 // '13'
+Found at:
+::
+Line 31
+Section 11
+Starts At 81
+Ends At 101
+::
+Line 31
+Section 61
+Starts At 01
+Ends At 21
+::
+Line 41
+Section 41
+Starts At 11
+Ends At 31
+::
+Line 41
+Section 91
+Starts At 01
+Ends At 21
+::
+Line 71
+Section 41
+Starts At 01
+Ends At 21
+
+=====
+
+
+Occurences 7 // 'Alban'
+Found at:
+::
+Line 11
+Section 131
+Starts At 01
+Ends At 51
+::
+Line 21
+Section 131
+Starts At 01
+Ends At 51
+::
+Line 31
+Section 131
+Starts At 01
+Ends At 51
+::
+Line 41
+Section 131
+Starts At 01
+Ends At 51
+::
+Line 51
+Section 131
+Starts At 01
+Ends At 51
+::
+Line 61
+Section 131
+Starts At 01
+Ends At 51
+::
+Line 71
+Section 131
+Starts At 01
+Ends At 51
+
+=====
+
+
+Occurences 3 // '14'
+Found at:
+::
+Line 31
+Section 51
+Starts At 31
+Ends At 51
+::
+Line 31
+Section 71
+Starts At 11
+Ends At 31
+::
+Line 31
+Section 91
+Starts At 41
+Ends At 61
+
+=====
+
+
+Occurences 16 // '15'
+Found at:
+::
+Line 11
+Section 11
+Starts At 21
+Ends At 41
+::
+Line 11
+Section 121
+Starts At 21
+Ends At 41
+::
+Line 21
+Section 11
+Starts At 21
+Ends At 41
+::
+Line 21
+Section 121
+Starts At 21
+Ends At 41
+::
+Line 31
+Section 11
+Starts At 21
+Ends At 41
+::
+Line 31
+Section 121
+Starts At 21
+Ends At 41
+::
+Line 41
+Section 11
+Starts At 21
+Ends At 41
+::
+Line 41
+Section 31
+Starts At 61
+Ends At 81
+::
+Line 41
+Section 121
+Starts At 21
+Ends At 41
+::
+Line 51
+Section 11
+Starts At 21
+Ends At 41
+::
+Line 51
+Section 121
+Starts At 21
+Ends At 41
+::
+Line 61
+Section 11
+Starts At 21
+Ends At 41
+::
+Line 61
+Section 121
+Starts At 21
+Ends At 41
+::
+Line 71
+Section 11
+Starts At 21
+Ends At 41
+::
+Line 71
+Section 11
+Starts At 81
+Ends At 101
+::
+Line 71
+Section 121
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 2 // '16'
+Found at:
+::
+Line 11
+Section 61
+Starts At 31
+Ends At 51
+::
+Line 41
+Section 71
+Starts At 51
+Ends At 71
+
+=====
+
+
+Occurences 5 // 'ag'
+Found at:
+::
+Line 01
+Section 21
+Starts At 41
+Ends At 61
+::
+Line 01
+Section 71
+Starts At 71
+Ends At 91
+::
+Line 01
+Section 81
+Starts At 71
+Ends At 91
+::
+Line 01
+Section 91
+Starts At 71
+Ends At 91
+::
+Line 01
+Section 101
+Starts At 81
+Ends At 101
+
+=====
+
+
+Occurences 4 // '18'
+Found at:
+::
+Line 31
+Section 31
+Starts At 11
+Ends At 31
+::
+Line 51
+Section 71
+Starts At 11
+Ends At 31
+::
+Line 61
+Section 41
+Starts At 11
+Ends At 31
+::
+Line 71
+Section 71
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 3 // '19'
+Found at:
+::
+Line 41
+Section 51
+Starts At 11
+Ends At 31
+::
+Line 51
+Section 91
+Starts At 01
+Ends At 21
+::
+Line 71
+Section 81
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 17 // 'al'
+Found at:
+::
+Line 01
+Section 31
+Starts At 31
+Ends At 51
+::
+Line 01
+Section 71
+Starts At 31
+Ends At 51
+::
+Line 01
+Section 81
+Starts At 21
+Ends At 41
+::
+Line 11
+Section 111
+Starts At 101
+Ends At 121
+::
+Line 11
+Section 131
+Starts At 01
+Ends At 21
+::
+Line 21
+Section 111
+Starts At 101
+Ends At 121
+::
+Line 21
+Section 131
+Starts At 01
+Ends At 21
+::
+Line 31
+Section 111
+Starts At 101
+Ends At 121
+::
+Line 31
+Section 131
+Starts At 01
+Ends At 21
+::
+Line 41
+Section 111
+Starts At 101
+Ends At 121
+::
+Line 41
+Section 131
+Starts At 01
+Ends At 21
+::
+Line 51
+Section 111
+Starts At 101
+Ends At 121
+::
+Line 51
+Section 131
+Starts At 01
+Ends At 21
+::
+Line 61
+Section 111
+Starts At 101
+Ends At 121
+::
+Line 61
+Section 131
+Starts At 01
+Ends At 21
+::
+Line 71
+Section 111
+Starts At 101
+Ends At 121
+::
+Line 71
+Section 131
+Starts At 01
+Ends At 21
+
+=====
+
+
+Occurences 2 // '36.'
+Found at:
+::
+Line 11
+Section 31
+Starts At 31
+Ends At 61
+::
+Line 11
+Section 41
+Starts At 21
+Ends At 51
+
+=====
+
+
+Occurences 2 // 'Large B'
+Found at:
+::
+Line 01
+Section 91
+Starts At 01
+Ends At 71
+::
+Line 01
+Section 101
+Starts At 11
+Ends At 81
+
+=====
+
+
+Occurences 4 // '12-'
+Found at:
+::
+Line 11
+Section 11
+Starts At 51
+Ends At 81
+::
+Line 21
+Section 11
+Starts At 51
+Ends At 81
+::
+Line 31
+Section 11
+Starts At 51
+Ends At 81
+::
+Line 41
+Section 11
+Starts At 51
+Ends At 81
+
+=====
+
+
+Occurences 14 // '-'
+Found at:
+::
+Line 11
+Section 11
+Starts At 41
+Ends At 51
+::
+Line 11
+Section 11
+Starts At 71
+Ends At 81
+::
+Line 21
+Section 11
+Starts At 41
+Ends At 51
+::
+Line 21
+Section 11
+Starts At 71
+Ends At 81
+::
+Line 31
+Section 11
+Starts At 41
+Ends At 51
+::
+Line 31
+Section 11
+Starts At 71
+Ends At 81
+::
+Line 41
+Section 11
+Starts At 41
+Ends At 51
+::
+Line 41
+Section 11
+Starts At 71
+Ends At 81
+::
+Line 51
+Section 11
+Starts At 41
+Ends At 51
+::
+Line 51
+Section 11
+Starts At 71
+Ends At 81
+::
+Line 61
+Section 11
+Starts At 41
+Ends At 51
+::
+Line 61
+Section 11
+Starts At 71
+Ends At 81
+::
+Line 71
+Section 11
+Starts At 41
+Ends At 51
+::
+Line 71
+Section 11
+Starts At 71
+Ends At 81
+
+=====
+
+
+Occurences 7 // 'an'
+Found at:
+::
+Line 11
+Section 131
+Starts At 31
+Ends At 51
+::
+Line 21
+Section 131
+Starts At 31
+Ends At 51
+::
+Line 31
+Section 131
+Starts At 31
+Ends At 51
+::
+Line 41
+Section 131
+Starts At 31
+Ends At 51
+::
+Line 51
+Section 131
+Starts At 31
+Ends At 51
+::
+Line 61
+Section 131
+Starts At 31
+Ends At 51
+::
+Line 71
+Section 131
+Starts At 31
+Ends At 51
+
+=====
+
+
+Occurences 63 // '.'
+Found at:
+::
+Line 11
+Section 21
+Starts At 11
+Ends At 21
+::
+Line 11
+Section 31
+Starts At 51
+Ends At 61
+::
+Line 11
+Section 41
+Starts At 41
+Ends At 51
+::
+Line 11
+Section 51
+Starts At 51
+Ends At 61
+::
+Line 11
+Section 61
+Starts At 21
+Ends At 31
+::
+Line 11
+Section 71
+Starts At 41
+Ends At 51
+::
+Line 11
+Section 81
+Starts At 41
+Ends At 51
+::
+Line 11
+Section 91
+Starts At 21
+Ends At 31
+::
+Line 11
+Section 101
+Starts At 11
+Ends At 21
+::
+Line 21
+Section 21
+Starts At 11
+Ends At 21
+::
+Line 21
+Section 31
+Starts At 51
+Ends At 61
+::
+Line 21
+Section 41
+Starts At 31
+Ends At 41
+::
+Line 21
+Section 51
+Starts At 51
+Ends At 61
+::
+Line 21
+Section 61
+Starts At 21
+Ends At 31
+::
+Line 21
+Section 71
+Starts At 41
+Ends At 51
+::
+Line 21
+Section 81
+Starts At 41
+Ends At 51
+::
+Line 21
+Section 91
+Starts At 21
+Ends At 31
+::
+Line 21
+Section 101
+Starts At 11
+Ends At 21
+::
+Line 31
+Section 21
+Starts At 11
+Ends At 21
+::
+Line 31
+Section 31
+Starts At 61
+Ends At 71
+::
+Line 31
+Section 41
+Starts At 31
+Ends At 41
+::
+Line 31
+Section 51
+Starts At 61
+Ends At 71
+::
+Line 31
+Section 61
+Starts At 31
+Ends At 41
+::
+Line 31
+Section 71
+Starts At 41
+Ends At 51
+::
+Line 31
+Section 81
+Starts At 41
+Ends At 51
+::
+Line 31
+Section 91
+Starts At 31
+Ends At 41
+::
+Line 31
+Section 101
+Starts At 11
+Ends At 21
+::
+Line 41
+Section 21
+Starts At 11
+Ends At 21
+::
+Line 41
+Section 31
+Starts At 51
+Ends At 61
+::
+Line 41
+Section 41
+Starts At 41
+Ends At 51
+::
+Line 41
+Section 51
+Starts At 51
+Ends At 61
+::
+Line 41
+Section 61
+Starts At 21
+Ends At 31
+::
+Line 41
+Section 71
+Starts At 41
+Ends At 51
+::
+Line 41
+Section 81
+Starts At 41
+Ends At 51
+::
+Line 41
+Section 91
+Starts At 31
+Ends At 41
+::
+Line 41
+Section 101
+Starts At 11
+Ends At 21
+::
+Line 51
+Section 21
+Starts At 11
+Ends At 21
+::
+Line 51
+Section 31
+Starts At 51
+Ends At 61
+::
+Line 51
+Section 41
+Starts At 31
+Ends At 41
+::
+Line 51
+Section 51
+Starts At 51
+Ends At 61
+::
+Line 51
+Section 61
+Starts At 21
+Ends At 31
+::
+Line 51
+Section 71
+Starts At 41
+Ends At 51
+::
+Line 51
+Section 81
+Starts At 41
+Ends At 51
+::
+Line 51
+Section 91
+Starts At 31
+Ends At 41
+::
+Line 51
+Section 101
+Starts At 11
+Ends At 21
+::
+Line 61
+Section 21
+Starts At 11
+Ends At 21
+::
+Line 61
+Section 31
+Starts At 51
+Ends At 61
+::
+Line 61
+Section 41
+Starts At 41
+Ends At 51
+::
+Line 61
+Section 51
+Starts At 51
+Ends At 61
+::
+Line 61
+Section 61
+Starts At 21
+Ends At 31
+::
+Line 61
+Section 71
+Starts At 41
+Ends At 51
+::
+Line 61
+Section 81
+Starts At 41
+Ends At 51
+::
+Line 61
+Section 91
+Starts At 31
+Ends At 41
+::
+Line 61
+Section 101
+Starts At 11
+Ends At 21
+::
+Line 71
+Section 21
+Starts At 11
+Ends At 21
+::
+Line 71
+Section 31
+Starts At 51
+Ends At 61
+::
+Line 71
+Section 41
+Starts At 41
+Ends At 51
+::
+Line 71
+Section 51
+Starts At 51
+Ends At 61
+::
+Line 71
+Section 61
+Starts At 21
+Ends At 31
+::
+Line 71
+Section 71
+Starts At 41
+Ends At 51
+::
+Line 71
+Section 81
+Starts At 41
+Ends At 51
+::
+Line 71
+Section 91
+Starts At 31
+Ends At 41
+::
+Line 71
+Section 101
+Starts At 11
+Ends At 21
+
+=====
+
+
+Occurences 50 // '0'
+Found at:
+::
+Line 01
+Section 41
+Starts At 11
+Ends At 21
+::
+Line 01
+Section 61
+Starts At 31
+Ends At 41
+::
+Line 11
+Section 01
+Starts At 01
+Ends At 11
+::
+Line 11
+Section 11
+Starts At 11
+Ends At 21
+::
+Line 11
+Section 41
+Starts At 11
+Ends At 21
+::
+Line 11
+Section 81
+Starts At 21
+Ends At 31
+::
+Line 11
+Section 101
+Starts At 01
+Ends At 11
+::
+Line 11
+Section 101
+Starts At 21
+Ends At 31
+::
+Line 11
+Section 121
+Starts At 11
+Ends At 21
+::
+Line 21
+Section 11
+Starts At 11
+Ends At 21
+::
+Line 21
+Section 11
+Starts At 91
+Ends At 101
+::
+Line 21
+Section 71
+Starts At 21
+Ends At 31
+::
+Line 21
+Section 81
+Starts At 21
+Ends At 31
+::
+Line 21
+Section 81
+Starts At 51
+Ends At 61
+::
+Line 21
+Section 101
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 101
+Starts At 21
+Ends At 31
+::
+Line 21
+Section 121
+Starts At 11
+Ends At 21
+::
+Line 31
+Section 11
+Starts At 11
+Ends At 21
+::
+Line 31
+Section 21
+Starts At 01
+Ends At 11
+::
+Line 31
+Section 31
+Starts At 51
+Ends At 61
+::
+Line 31
+Section 51
+Starts At 11
+Ends At 21
+::
+Line 31
+Section 61
+Starts At 21
+Ends At 31
+::
+Line 31
+Section 81
+Starts At 11
+Ends At 21
+::
+Line 31
+Section 91
+Starts At 11
+Ends At 21
+::
+Line 31
+Section 101
+Starts At 01
+Ends At 11
+::
+Line 31
+Section 101
+Starts At 21
+Ends At 31
+::
+Line 31
+Section 121
+Starts At 11
+Ends At 21
+::
+Line 41
+Section 11
+Starts At 11
+Ends At 21
+::
+Line 41
+Section 11
+Starts At 81
+Ends At 91
+::
+Line 41
+Section 21
+Starts At 21
+Ends At 31
+::
+Line 41
+Section 41
+Starts At 51
+Ends At 61
+::
+Line 41
+Section 101
+Starts At 01
+Ends At 11
+::
+Line 41
+Section 101
+Starts At 21
+Ends At 31
+::
+Line 41
+Section 121
+Starts At 11
+Ends At 21
+::
+Line 51
+Section 11
+Starts At 11
+Ends At 21
+::
+Line 51
+Section 31
+Starts At 21
+Ends At 31
+::
+Line 51
+Section 101
+Starts At 01
+Ends At 11
+::
+Line 51
+Section 101
+Starts At 21
+Ends At 31
+::
+Line 51
+Section 121
+Starts At 11
+Ends At 21
+::
+Line 61
+Section 11
+Starts At 11
+Ends At 21
+::
+Line 61
+Section 51
+Starts At 21
+Ends At 31
+::
+Line 61
+Section 101
+Starts At 01
+Ends At 11
+::
+Line 61
+Section 101
+Starts At 21
+Ends At 31
+::
+Line 61
+Section 121
+Starts At 11
+Ends At 21
+::
+Line 71
+Section 11
+Starts At 11
+Ends At 21
+::
+Line 71
+Section 21
+Starts At 01
+Ends At 11
+::
+Line 71
+Section 91
+Starts At 41
+Ends At 51
+::
+Line 71
+Section 101
+Starts At 01
+Ends At 11
+::
+Line 71
+Section 101
+Starts At 21
+Ends At 31
+::
+Line 71
+Section 121
+Starts At 11
+Ends At 21
+
+=====
+
+
+Occurences 67 // '1'
+Found at:
+::
+Line 11
+Section 11
+Starts At 21
+Ends At 31
+::
+Line 11
+Section 11
+Starts At 51
+Ends At 61
+::
+Line 11
+Section 21
+Starts At 01
+Ends At 11
+::
+Line 11
+Section 41
+Starts At 01
+Ends At 11
+::
+Line 11
+Section 61
+Starts At 31
+Ends At 41
+::
+Line 11
+Section 121
+Starts At 21
+Ends At 31
+::
+Line 21
+Section 01
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 11
+Starts At 21
+Ends At 31
+::
+Line 21
+Section 11
+Starts At 51
+Ends At 61
+::
+Line 21
+Section 21
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 51
+Starts At 71
+Ends At 81
+::
+Line 21
+Section 121
+Starts At 21
+Ends At 31
+::
+Line 31
+Section 11
+Starts At 21
+Ends At 31
+::
+Line 31
+Section 11
+Starts At 51
+Ends At 61
+::
+Line 31
+Section 11
+Starts At 81
+Ends At 91
+::
+Line 31
+Section 31
+Starts At 01
+Ends At 11
+::
+Line 31
+Section 31
+Starts At 11
+Ends At 21
+::
+Line 31
+Section 51
+Starts At 01
+Ends At 11
+::
+Line 31
+Section 51
+Starts At 31
+Ends At 41
+::
+Line 31
+Section 61
+Starts At 01
+Ends At 11
+::
+Line 31
+Section 71
+Starts At 11
+Ends At 21
+::
+Line 31
+Section 81
+Starts At 61
+Ends At 71
+::
+Line 31
+Section 91
+Starts At 01
+Ends At 11
+::
+Line 31
+Section 91
+Starts At 41
+Ends At 51
+::
+Line 31
+Section 121
+Starts At 21
+Ends At 31
+::
+Line 41
+Section 11
+Starts At 21
+Ends At 31
+::
+Line 41
+Section 11
+Starts At 51
+Ends At 61
+::
+Line 41
+Section 21
+Starts At 01
+Ends At 11
+::
+Line 41
+Section 31
+Starts At 61
+Ends At 71
+::
+Line 41
+Section 41
+Starts At 01
+Ends At 11
+::
+Line 41
+Section 41
+Starts At 11
+Ends At 21
+::
+Line 41
+Section 51
+Starts At 11
+Ends At 21
+::
+Line 41
+Section 51
+Starts At 71
+Ends At 81
+::
+Line 41
+Section 71
+Starts At 21
+Ends At 31
+::
+Line 41
+Section 71
+Starts At 31
+Ends At 41
+::
+Line 41
+Section 71
+Starts At 51
+Ends At 61
+::
+Line 41
+Section 91
+Starts At 01
+Ends At 11
+::
+Line 41
+Section 121
+Starts At 21
+Ends At 31
+::
+Line 51
+Section 11
+Starts At 21
+Ends At 31
+::
+Line 51
+Section 11
+Starts At 51
+Ends At 61
+::
+Line 51
+Section 11
+Starts At 61
+Ends At 71
+::
+Line 51
+Section 21
+Starts At 01
+Ends At 11
+::
+Line 51
+Section 31
+Starts At 11
+Ends At 21
+::
+Line 51
+Section 41
+Starts At 21
+Ends At 31
+::
+Line 51
+Section 71
+Starts At 11
+Ends At 21
+::
+Line 51
+Section 91
+Starts At 01
+Ends At 11
+::
+Line 51
+Section 121
+Starts At 21
+Ends At 31
+::
+Line 61
+Section 11
+Starts At 21
+Ends At 31
+::
+Line 61
+Section 11
+Starts At 51
+Ends At 61
+::
+Line 61
+Section 11
+Starts At 61
+Ends At 71
+::
+Line 61
+Section 21
+Starts At 01
+Ends At 11
+::
+Line 61
+Section 41
+Starts At 01
+Ends At 11
+::
+Line 61
+Section 41
+Starts At 11
+Ends At 21
+::
+Line 61
+Section 61
+Starts At 41
+Ends At 51
+::
+Line 61
+Section 71
+Starts At 61
+Ends At 71
+::
+Line 61
+Section 91
+Starts At 01
+Ends At 11
+::
+Line 61
+Section 121
+Starts At 21
+Ends At 31
+::
+Line 71
+Section 11
+Starts At 21
+Ends At 31
+::
+Line 71
+Section 11
+Starts At 51
+Ends At 61
+::
+Line 71
+Section 11
+Starts At 61
+Ends At 71
+::
+Line 71
+Section 11
+Starts At 81
+Ends At 91
+::
+Line 71
+Section 41
+Starts At 01
+Ends At 11
+::
+Line 71
+Section 71
+Starts At 21
+Ends At 31
+::
+Line 71
+Section 81
+Starts At 11
+Ends At 21
+::
+Line 71
+Section 81
+Starts At 61
+Ends At 71
+::
+Line 71
+Section 91
+Starts At 01
+Ends At 11
+::
+Line 71
+Section 121
+Starts At 21
+Ends At 31
+
+=====
+
+
+Occurences 3 // 'ar'
+Found at:
+::
+Line 01
+Section 91
+Starts At 11
+Ends At 31
+::
+Line 01
+Section 101
+Starts At 21
+Ends At 41
+::
+Line 01
+Section 121
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 51 // '2'
+Found at:
+::
+Line 01
+Section 51
+Starts At 11
+Ends At 21
+::
+Line 01
+Section 51
+Starts At 21
+Ends At 31
+::
+Line 11
+Section 11
+Starts At 01
+Ends At 11
+::
+Line 11
+Section 11
+Starts At 61
+Ends At 71
+::
+Line 11
+Section 11
+Starts At 81
+Ends At 91
+::
+Line 11
+Section 31
+Starts At 21
+Ends At 31
+::
+Line 11
+Section 31
+Starts At 71
+Ends At 81
+::
+Line 11
+Section 81
+Starts At 61
+Ends At 71
+::
+Line 11
+Section 91
+Starts At 31
+Ends At 41
+::
+Line 11
+Section 121
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 11
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 11
+Starts At 61
+Ends At 71
+::
+Line 21
+Section 11
+Starts At 81
+Ends At 91
+::
+Line 21
+Section 41
+Starts At 41
+Ends At 51
+::
+Line 21
+Section 121
+Starts At 01
+Ends At 11
+::
+Line 31
+Section 01
+Starts At 01
+Ends At 11
+::
+Line 31
+Section 11
+Starts At 01
+Ends At 11
+::
+Line 31
+Section 11
+Starts At 61
+Ends At 71
+::
+Line 31
+Section 31
+Starts At 31
+Ends At 41
+::
+Line 31
+Section 31
+Starts At 41
+Ends At 51
+::
+Line 31
+Section 31
+Starts At 71
+Ends At 81
+::
+Line 31
+Section 31
+Starts At 81
+Ends At 91
+::
+Line 31
+Section 81
+Starts At 31
+Ends At 41
+::
+Line 31
+Section 81
+Starts At 51
+Ends At 61
+::
+Line 31
+Section 121
+Starts At 01
+Ends At 11
+::
+Line 41
+Section 11
+Starts At 01
+Ends At 11
+::
+Line 41
+Section 11
+Starts At 61
+Ends At 71
+::
+Line 41
+Section 31
+Starts At 41
+Ends At 51
+::
+Line 41
+Section 41
+Starts At 31
+Ends At 41
+::
+Line 41
+Section 61
+Starts At 11
+Ends At 21
+::
+Line 41
+Section 121
+Starts At 01
+Ends At 11
+::
+Line 51
+Section 11
+Starts At 01
+Ends At 11
+::
+Line 51
+Section 11
+Starts At 81
+Ends At 91
+::
+Line 51
+Section 21
+Starts At 21
+Ends At 31
+::
+Line 51
+Section 81
+Starts At 51
+Ends At 61
+::
+Line 51
+Section 121
+Starts At 01
+Ends At 11
+::
+Line 61
+Section 11
+Starts At 01
+Ends At 11
+::
+Line 61
+Section 11
+Starts At 81
+Ends At 91
+::
+Line 61
+Section 11
+Starts At 91
+Ends At 101
+::
+Line 61
+Section 21
+Starts At 21
+Ends At 31
+::
+Line 61
+Section 41
+Starts At 51
+Ends At 61
+::
+Line 61
+Section 91
+Starts At 11
+Ends At 21
+::
+Line 61
+Section 121
+Starts At 01
+Ends At 11
+::
+Line 71
+Section 11
+Starts At 01
+Ends At 11
+::
+Line 71
+Section 41
+Starts At 61
+Ends At 71
+::
+Line 71
+Section 51
+Starts At 41
+Ends At 51
+::
+Line 71
+Section 51
+Starts At 71
+Ends At 81
+::
+Line 71
+Section 61
+Starts At 31
+Ends At 41
+::
+Line 71
+Section 91
+Starts At 11
+Ends At 21
+::
+Line 71
+Section 91
+Starts At 21
+Ends At 31
+::
+Line 71
+Section 121
+Starts At 01
+Ends At 11
+
+=====
+
+
+Occurences 32 // '3'
+Found at:
+::
+Line 11
+Section 21
+Starts At 21
+Ends At 31
+::
+Line 11
+Section 21
+Starts At 31
+Ends At 41
+::
+Line 11
+Section 31
+Starts At 31
+Ends At 41
+::
+Line 11
+Section 41
+Starts At 21
+Ends At 31
+::
+Line 11
+Section 81
+Starts At 31
+Ends At 41
+::
+Line 11
+Section 91
+Starts At 11
+Ends At 21
+::
+Line 21
+Section 21
+Starts At 21
+Ends At 31
+::
+Line 21
+Section 51
+Starts At 31
+Ends At 41
+::
+Line 21
+Section 61
+Starts At 31
+Ends At 41
+::
+Line 21
+Section 61
+Starts At 41
+Ends At 51
+::
+Line 31
+Section 11
+Starts At 91
+Ends At 101
+::
+Line 31
+Section 21
+Starts At 31
+Ends At 41
+::
+Line 31
+Section 61
+Starts At 11
+Ends At 21
+::
+Line 31
+Section 71
+Starts At 51
+Ends At 61
+::
+Line 31
+Section 91
+Starts At 21
+Ends At 31
+::
+Line 41
+Section 01
+Starts At 01
+Ends At 11
+::
+Line 41
+Section 41
+Starts At 21
+Ends At 31
+::
+Line 41
+Section 91
+Starts At 11
+Ends At 21
+::
+Line 41
+Section 91
+Starts At 21
+Ends At 31
+::
+Line 51
+Section 31
+Starts At 31
+Ends At 41
+::
+Line 51
+Section 51
+Starts At 11
+Ends At 21
+::
+Line 51
+Section 51
+Starts At 31
+Ends At 41
+::
+Line 51
+Section 51
+Starts At 61
+Ends At 71
+::
+Line 51
+Section 71
+Starts At 31
+Ends At 41
+::
+Line 61
+Section 61
+Starts At 11
+Ends At 21
+::
+Line 61
+Section 71
+Starts At 31
+Ends At 41
+::
+Line 71
+Section 31
+Starts At 11
+Ends At 21
+::
+Line 71
+Section 31
+Starts At 41
+Ends At 51
+::
+Line 71
+Section 41
+Starts At 11
+Ends At 21
+::
+Line 71
+Section 51
+Starts At 11
+Ends At 21
+::
+Line 71
+Section 61
+Starts At 11
+Ends At 21
+::
+Line 71
+Section 71
+Starts At 11
+Ends At 21
+
+=====
+
+
+Occurences 2 // 'e Bag'
+Found at:
+::
+Line 01
+Section 91
+Starts At 41
+Ends At 91
+::
+Line 01
+Section 101
+Starts At 51
+Ends At 101
+
+=====
+
+
+Occurences 34 // '4'
+Found at:
+::
+Line 01
+Section 41
+Starts At 01
+Ends At 11
+::
+Line 01
+Section 41
+Starts At 21
+Ends At 31
+::
+Line 01
+Section 51
+Starts At 01
+Ends At 11
+::
+Line 01
+Section 61
+Starts At 01
+Ends At 11
+::
+Line 11
+Section 31
+Starts At 11
+Ends At 21
+::
+Line 11
+Section 41
+Starts At 61
+Ends At 71
+::
+Line 11
+Section 51
+Starts At 11
+Ends At 21
+::
+Line 11
+Section 51
+Starts At 21
+Ends At 31
+::
+Line 11
+Section 51
+Starts At 41
+Ends At 51
+::
+Line 11
+Section 61
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 31
+Starts At 11
+Ends At 21
+::
+Line 21
+Section 41
+Starts At 21
+Ends At 31
+::
+Line 21
+Section 51
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 51
+Starts At 11
+Ends At 21
+::
+Line 21
+Section 81
+Starts At 11
+Ends At 21
+::
+Line 21
+Section 91
+Starts At 31
+Ends At 41
+::
+Line 31
+Section 41
+Starts At 21
+Ends At 31
+::
+Line 31
+Section 51
+Starts At 41
+Ends At 51
+::
+Line 31
+Section 71
+Starts At 21
+Ends At 31
+::
+Line 31
+Section 81
+Starts At 21
+Ends At 31
+::
+Line 31
+Section 91
+Starts At 51
+Ends At 61
+::
+Line 41
+Section 51
+Starts At 61
+Ends At 71
+::
+Line 41
+Section 81
+Starts At 51
+Ends At 61
+::
+Line 51
+Section 01
+Starts At 01
+Ends At 11
+::
+Line 51
+Section 41
+Starts At 11
+Ends At 21
+::
+Line 51
+Section 41
+Starts At 41
+Ends At 51
+::
+Line 51
+Section 51
+Starts At 01
+Ends At 11
+::
+Line 61
+Section 41
+Starts At 31
+Ends At 41
+::
+Line 61
+Section 51
+Starts At 01
+Ends At 11
+::
+Line 61
+Section 61
+Starts At 01
+Ends At 11
+::
+Line 61
+Section 81
+Starts At 51
+Ends At 61
+::
+Line 61
+Section 91
+Starts At 41
+Ends At 51
+::
+Line 61
+Section 91
+Starts At 51
+Ends At 61
+::
+Line 71
+Section 31
+Starts At 21
+Ends At 31
+
+=====
+
+
+Occurences 44 // '5'
+Found at:
+::
+Line 01
+Section 51
+Starts At 31
+Ends At 41
+::
+Line 11
+Section 11
+Starts At 31
+Ends At 41
+::
+Line 11
+Section 51
+Starts At 01
+Ends At 11
+::
+Line 11
+Section 51
+Starts At 31
+Ends At 41
+::
+Line 11
+Section 51
+Starts At 71
+Ends At 81
+::
+Line 11
+Section 91
+Starts At 41
+Ends At 51
+::
+Line 11
+Section 121
+Starts At 31
+Ends At 41
+::
+Line 21
+Section 11
+Starts At 31
+Ends At 41
+::
+Line 21
+Section 21
+Starts At 31
+Ends At 41
+::
+Line 21
+Section 31
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 61
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 71
+Starts At 11
+Ends At 21
+::
+Line 21
+Section 71
+Starts At 31
+Ends At 41
+::
+Line 21
+Section 71
+Starts At 51
+Ends At 61
+::
+Line 21
+Section 121
+Starts At 31
+Ends At 41
+::
+Line 31
+Section 11
+Starts At 31
+Ends At 41
+::
+Line 31
+Section 61
+Starts At 41
+Ends At 51
+::
+Line 31
+Section 71
+Starts At 31
+Ends At 41
+::
+Line 31
+Section 71
+Starts At 61
+Ends At 71
+::
+Line 31
+Section 121
+Starts At 31
+Ends At 41
+::
+Line 41
+Section 11
+Starts At 31
+Ends At 41
+::
+Line 41
+Section 31
+Starts At 71
+Ends At 81
+::
+Line 41
+Section 61
+Starts At 31
+Ends At 41
+::
+Line 41
+Section 71
+Starts At 01
+Ends At 11
+::
+Line 41
+Section 81
+Starts At 01
+Ends At 11
+::
+Line 41
+Section 121
+Starts At 31
+Ends At 41
+::
+Line 51
+Section 11
+Starts At 31
+Ends At 41
+::
+Line 51
+Section 31
+Starts At 01
+Ends At 11
+::
+Line 51
+Section 61
+Starts At 11
+Ends At 21
+::
+Line 51
+Section 71
+Starts At 61
+Ends At 71
+::
+Line 51
+Section 81
+Starts At 01
+Ends At 11
+::
+Line 51
+Section 121
+Starts At 31
+Ends At 41
+::
+Line 61
+Section 01
+Starts At 01
+Ends At 11
+::
+Line 61
+Section 11
+Starts At 31
+Ends At 41
+::
+Line 61
+Section 31
+Starts At 01
+Ends At 11
+::
+Line 61
+Section 31
+Starts At 11
+Ends At 21
+::
+Line 61
+Section 81
+Starts At 11
+Ends At 21
+::
+Line 61
+Section 81
+Starts At 21
+Ends At 31
+::
+Line 61
+Section 121
+Starts At 31
+Ends At 41
+::
+Line 71
+Section 11
+Starts At 31
+Ends At 41
+::
+Line 71
+Section 11
+Starts At 91
+Ends At 101
+::
+Line 71
+Section 31
+Starts At 31
+Ends At 41
+::
+Line 71
+Section 91
+Starts At 51
+Ends At 61
+::
+Line 71
+Section 121
+Starts At 31
+Ends At 41
+
+=====
+
+
+Occurences 2 // 'rg'
+Found at:
+::
+Line 01
+Section 91
+Starts At 21
+Ends At 41
+::
+Line 01
+Section 101
+Starts At 31
+Ends At 51
+
+=====
+
+
+Occurences 2 // 'l Bag'
+Found at:
+::
+Line 01
+Section 71
+Starts At 41
+Ends At 91
+::
+Line 01
+Section 81
+Starts At 41
+Ends At 91
+
+=====
+
+
+Occurences 39 // '6'
+Found at:
+::
+Line 01
+Section 41
+Starts At 31
+Ends At 41
+::
+Line 11
+Section 31
+Starts At 01
+Ends At 11
+::
+Line 11
+Section 31
+Starts At 41
+Ends At 51
+::
+Line 11
+Section 31
+Starts At 61
+Ends At 71
+::
+Line 11
+Section 41
+Starts At 31
+Ends At 41
+::
+Line 11
+Section 61
+Starts At 41
+Ends At 51
+::
+Line 11
+Section 71
+Starts At 11
+Ends At 21
+::
+Line 11
+Section 71
+Starts At 31
+Ends At 41
+::
+Line 11
+Section 81
+Starts At 11
+Ends At 21
+::
+Line 11
+Section 81
+Starts At 51
+Ends At 61
+::
+Line 21
+Section 31
+Starts At 41
+Ends At 51
+::
+Line 21
+Section 41
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 51
+Starts At 21
+Ends At 31
+::
+Line 21
+Section 71
+Starts At 61
+Ends At 71
+::
+Line 31
+Section 51
+Starts At 71
+Ends At 81
+::
+Line 41
+Section 11
+Starts At 91
+Ends At 101
+::
+Line 41
+Section 51
+Starts At 41
+Ends At 51
+::
+Line 41
+Section 71
+Starts At 61
+Ends At 71
+::
+Line 41
+Section 81
+Starts At 11
+Ends At 21
+::
+Line 41
+Section 91
+Starts At 51
+Ends At 61
+::
+Line 51
+Section 31
+Starts At 61
+Ends At 71
+::
+Line 51
+Section 71
+Starts At 01
+Ends At 11
+::
+Line 51
+Section 81
+Starts At 31
+Ends At 41
+::
+Line 51
+Section 81
+Starts At 61
+Ends At 71
+::
+Line 51
+Section 91
+Starts At 41
+Ends At 51
+::
+Line 61
+Section 21
+Starts At 31
+Ends At 41
+::
+Line 61
+Section 51
+Starts At 31
+Ends At 41
+::
+Line 61
+Section 61
+Starts At 31
+Ends At 41
+::
+Line 61
+Section 71
+Starts At 01
+Ends At 11
+::
+Line 61
+Section 71
+Starts At 11
+Ends At 21
+::
+Line 61
+Section 81
+Starts At 01
+Ends At 11
+::
+Line 61
+Section 81
+Starts At 31
+Ends At 41
+::
+Line 71
+Section 01
+Starts At 01
+Ends At 11
+::
+Line 71
+Section 31
+Starts At 71
+Ends At 81
+::
+Line 71
+Section 41
+Starts At 21
+Ends At 31
+::
+Line 71
+Section 51
+Starts At 21
+Ends At 31
+::
+Line 71
+Section 61
+Starts At 41
+Ends At 51
+::
+Line 71
+Section 71
+Starts At 61
+Ends At 71
+::
+Line 71
+Section 81
+Starts At 31
+Ends At 41
+
+=====
+
+
+Occurences 32 // '7'
+Found at:
+::
+Line 01
+Section 61
+Starts At 11
+Ends At 21
+::
+Line 01
+Section 61
+Starts At 21
+Ends At 31
+::
+Line 11
+Section 11
+Starts At 91
+Ends At 101
+::
+Line 11
+Section 41
+Starts At 51
+Ends At 61
+::
+Line 11
+Section 71
+Starts At 61
+Ends At 71
+::
+Line 21
+Section 31
+Starts At 31
+Ends At 41
+::
+Line 21
+Section 41
+Starts At 11
+Ends At 21
+::
+Line 21
+Section 81
+Starts At 61
+Ends At 71
+::
+Line 21
+Section 91
+Starts At 11
+Ends At 21
+::
+Line 31
+Section 41
+Starts At 01
+Ends At 11
+::
+Line 31
+Section 41
+Starts At 41
+Ends At 51
+::
+Line 31
+Section 51
+Starts At 81
+Ends At 91
+::
+Line 41
+Section 31
+Starts At 01
+Ends At 11
+::
+Line 41
+Section 51
+Starts At 01
+Ends At 11
+::
+Line 41
+Section 51
+Starts At 31
+Ends At 41
+::
+Line 41
+Section 61
+Starts At 01
+Ends At 11
+::
+Line 41
+Section 81
+Starts At 21
+Ends At 31
+::
+Line 41
+Section 81
+Starts At 31
+Ends At 41
+::
+Line 41
+Section 91
+Starts At 41
+Ends At 51
+::
+Line 51
+Section 61
+Starts At 01
+Ends At 11
+::
+Line 51
+Section 61
+Starts At 31
+Ends At 41
+::
+Line 51
+Section 91
+Starts At 21
+Ends At 31
+::
+Line 61
+Section 31
+Starts At 31
+Ends At 41
+::
+Line 61
+Section 31
+Starts At 61
+Ends At 71
+::
+Line 61
+Section 41
+Starts At 61
+Ends At 71
+::
+Line 61
+Section 51
+Starts At 41
+Ends At 51
+::
+Line 61
+Section 81
+Starts At 61
+Ends At 71
+::
+Line 61
+Section 91
+Starts At 21
+Ends At 31
+::
+Line 71
+Section 31
+Starts At 61
+Ends At 71
+::
+Line 71
+Section 51
+Starts At 01
+Ends At 11
+::
+Line 71
+Section 51
+Starts At 31
+Ends At 41
+::
+Line 71
+Section 51
+Starts At 61
+Ends At 71
+
+=====
+
+
+Occurences 37 // '8'
+Found at:
+::
+Line 11
+Section 51
+Starts At 61
+Ends At 71
+::
+Line 11
+Section 61
+Starts At 11
+Ends At 21
+::
+Line 11
+Section 71
+Starts At 01
+Ends At 11
+::
+Line 11
+Section 71
+Starts At 51
+Ends At 61
+::
+Line 11
+Section 81
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 31
+Starts At 21
+Ends At 31
+::
+Line 21
+Section 31
+Starts At 71
+Ends At 81
+::
+Line 21
+Section 41
+Starts At 51
+Ends At 61
+::
+Line 21
+Section 51
+Starts At 41
+Ends At 51
+::
+Line 21
+Section 51
+Starts At 61
+Ends At 71
+::
+Line 21
+Section 61
+Starts At 11
+Ends At 21
+::
+Line 21
+Section 81
+Starts At 31
+Ends At 41
+::
+Line 31
+Section 31
+Starts At 21
+Ends At 31
+::
+Line 31
+Section 71
+Starts At 01
+Ends At 11
+::
+Line 31
+Section 81
+Starts At 01
+Ends At 11
+::
+Line 41
+Section 21
+Starts At 31
+Ends At 41
+::
+Line 41
+Section 31
+Starts At 11
+Ends At 21
+::
+Line 41
+Section 61
+Starts At 41
+Ends At 51
+::
+Line 41
+Section 71
+Starts At 11
+Ends At 21
+::
+Line 51
+Section 21
+Starts At 31
+Ends At 41
+::
+Line 51
+Section 41
+Starts At 51
+Ends At 61
+::
+Line 51
+Section 51
+Starts At 21
+Ends At 31
+::
+Line 51
+Section 51
+Starts At 41
+Ends At 51
+::
+Line 51
+Section 61
+Starts At 41
+Ends At 51
+::
+Line 51
+Section 71
+Starts At 21
+Ends At 31
+::
+Line 51
+Section 81
+Starts At 21
+Ends At 31
+::
+Line 61
+Section 31
+Starts At 71
+Ends At 81
+::
+Line 61
+Section 41
+Starts At 21
+Ends At 31
+::
+Line 61
+Section 51
+Starts At 11
+Ends At 21
+::
+Line 61
+Section 71
+Starts At 21
+Ends At 31
+::
+Line 71
+Section 31
+Starts At 01
+Ends At 11
+::
+Line 71
+Section 41
+Starts At 31
+Ends At 41
+::
+Line 71
+Section 71
+Starts At 01
+Ends At 11
+::
+Line 71
+Section 71
+Starts At 31
+Ends At 41
+::
+Line 71
+Section 71
+Starts At 51
+Ends At 61
+::
+Line 71
+Section 81
+Starts At 01
+Ends At 11
+::
+Line 71
+Section 81
+Starts At 51
+Ends At 61
+
+=====
+
+
+Occurences 32 // '9'
+Found at:
+::
+Line 11
+Section 71
+Starts At 21
+Ends At 31
+::
+Line 11
+Section 91
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 31
+Starts At 61
+Ends At 71
+::
+Line 21
+Section 71
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 81
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 91
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 91
+Starts At 41
+Ends At 51
+::
+Line 31
+Section 21
+Starts At 21
+Ends At 31
+::
+Line 31
+Section 41
+Starts At 11
+Ends At 21
+::
+Line 31
+Section 51
+Starts At 21
+Ends At 31
+::
+Line 31
+Section 51
+Starts At 51
+Ends At 61
+::
+Line 41
+Section 31
+Starts At 21
+Ends At 31
+::
+Line 41
+Section 31
+Starts At 31
+Ends At 41
+::
+Line 41
+Section 51
+Starts At 21
+Ends At 31
+::
+Line 51
+Section 11
+Starts At 91
+Ends At 101
+::
+Line 51
+Section 31
+Starts At 41
+Ends At 51
+::
+Line 51
+Section 41
+Starts At 01
+Ends At 11
+::
+Line 51
+Section 51
+Starts At 71
+Ends At 81
+::
+Line 51
+Section 71
+Starts At 51
+Ends At 61
+::
+Line 51
+Section 81
+Starts At 11
+Ends At 21
+::
+Line 51
+Section 91
+Starts At 11
+Ends At 21
+::
+Line 51
+Section 91
+Starts At 51
+Ends At 61
+::
+Line 61
+Section 31
+Starts At 21
+Ends At 31
+::
+Line 61
+Section 31
+Starts At 41
+Ends At 51
+::
+Line 61
+Section 51
+Starts At 61
+Ends At 71
+::
+Line 61
+Section 51
+Starts At 71
+Ends At 81
+::
+Line 61
+Section 71
+Starts At 51
+Ends At 61
+::
+Line 71
+Section 21
+Starts At 21
+Ends At 31
+::
+Line 71
+Section 21
+Starts At 31
+Ends At 41
+::
+Line 71
+Section 41
+Starts At 51
+Ends At 61
+::
+Line 71
+Section 61
+Starts At 01
+Ends At 11
+::
+Line 71
+Section 81
+Starts At 21
+Ends At 31
+
+=====
+
+
+Occurences 4 // '2-'
+Found at:
+::
+Line 11
+Section 11
+Starts At 61
+Ends At 81
+::
+Line 21
+Section 11
+Starts At 61
+Ends At 81
+::
+Line 31
+Section 11
+Starts At 61
+Ends At 81
+::
+Line 41
+Section 11
+Starts At 61
+Ends At 81
+
+=====
+
+
+Occurences 7 // 'nventional'
+Found at:
+::
+Line 11
+Section 111
+Starts At 21
+Ends At 121
+::
+Line 21
+Section 111
+Starts At 21
+Ends At 121
+::
+Line 31
+Section 111
+Starts At 21
+Ends At 121
+::
+Line 41
+Section 111
+Starts At 21
+Ends At 121
+::
+Line 51
+Section 111
+Starts At 21
+Ends At 121
+::
+Line 61
+Section 111
+Starts At 21
+Ends At 121
+::
+Line 71
+Section 111
+Starts At 21
+Ends At 121
+
+=====
+
+
+Occurences 6 // '2.'
+Found at:
+::
+Line 31
+Section 81
+Starts At 31
+Ends At 51
+::
+Line 41
+Section 31
+Starts At 41
+Ends At 61
+::
+Line 41
+Section 41
+Starts At 31
+Ends At 51
+::
+Line 41
+Section 61
+Starts At 11
+Ends At 31
+::
+Line 71
+Section 51
+Starts At 41
+Ends At 61
+::
+Line 71
+Section 91
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 3 // '7.4'
+Found at:
+::
+Line 21
+Section 91
+Starts At 11
+Ends At 41
+::
+Line 41
+Section 81
+Starts At 31
+Ends At 61
+::
+Line 61
+Section 91
+Starts At 21
+Ends At 51
+
+=====
+
+
+Occurences 16 // '20'
+Found at:
+::
+Line 11
+Section 11
+Starts At 01
+Ends At 21
+::
+Line 11
+Section 121
+Starts At 01
+Ends At 21
+::
+Line 21
+Section 11
+Starts At 01
+Ends At 21
+::
+Line 21
+Section 11
+Starts At 81
+Ends At 101
+::
+Line 21
+Section 121
+Starts At 01
+Ends At 21
+::
+Line 31
+Section 11
+Starts At 01
+Ends At 21
+::
+Line 31
+Section 31
+Starts At 41
+Ends At 61
+::
+Line 31
+Section 121
+Starts At 01
+Ends At 21
+::
+Line 41
+Section 11
+Starts At 01
+Ends At 21
+::
+Line 41
+Section 121
+Starts At 01
+Ends At 21
+::
+Line 51
+Section 11
+Starts At 01
+Ends At 21
+::
+Line 51
+Section 121
+Starts At 01
+Ends At 21
+::
+Line 61
+Section 11
+Starts At 01
+Ends At 21
+::
+Line 61
+Section 121
+Starts At 01
+Ends At 21
+::
+Line 71
+Section 11
+Starts At 01
+Ends At 21
+::
+Line 71
+Section 121
+Starts At 01
+Ends At 21
+
+=====
+
+
+Occurences 5 // '22'
+Found at:
+::
+Line 01
+Section 51
+Starts At 11
+Ends At 31
+::
+Line 31
+Section 31
+Starts At 31
+Ends At 51
+::
+Line 31
+Section 31
+Starts At 71
+Ends At 91
+::
+Line 61
+Section 11
+Starts At 81
+Ends At 101
+::
+Line 71
+Section 91
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 11 // 'B'
+Found at:
+::
+Line 01
+Section 71
+Starts At 61
+Ends At 71
+::
+Line 01
+Section 81
+Starts At 61
+Ends At 71
+::
+Line 01
+Section 91
+Starts At 61
+Ends At 71
+::
+Line 01
+Section 101
+Starts At 71
+Ends At 81
+::
+Line 11
+Section 131
+Starts At 21
+Ends At 31
+::
+Line 21
+Section 131
+Starts At 21
+Ends At 31
+::
+Line 31
+Section 131
+Starts At 21
+Ends At 31
+::
+Line 41
+Section 131
+Starts At 21
+Ends At 31
+::
+Line 51
+Section 131
+Starts At 21
+Ends At 31
+::
+Line 61
+Section 131
+Starts At 21
+Ends At 31
+::
+Line 71
+Section 131
+Starts At 21
+Ends At 31
+
+=====
+
+
+Occurences 7 // 'nven'
+Found at:
+::
+Line 11
+Section 111
+Starts At 21
+Ends At 61
+::
+Line 21
+Section 111
+Starts At 21
+Ends At 61
+::
+Line 31
+Section 111
+Starts At 21
+Ends At 61
+::
+Line 41
+Section 111
+Starts At 21
+Ends At 61
+::
+Line 51
+Section 111
+Starts At 21
+Ends At 61
+::
+Line 61
+Section 111
+Starts At 21
+Ends At 61
+::
+Line 71
+Section 111
+Starts At 21
+Ends At 61
+
+=====
+
+
+Occurences 2 // '25'
+Found at:
+::
+Line 01
+Section 51
+Starts At 21
+Ends At 41
+::
+Line 11
+Section 91
+Starts At 31
+Ends At 51
+
+=====
+
+
+Occurences 7 // '015-1'
+Found at:
+::
+Line 11
+Section 11
+Starts At 11
+Ends At 61
+::
+Line 21
+Section 11
+Starts At 11
+Ends At 61
+::
+Line 31
+Section 11
+Starts At 11
+Ends At 61
+::
+Line 41
+Section 11
+Starts At 11
+Ends At 61
+::
+Line 51
+Section 11
+Starts At 11
+Ends At 61
+::
+Line 61
+Section 11
+Starts At 11
+Ends At 61
+::
+Line 71
+Section 11
+Starts At 11
+Ends At 61
+
+=====
+
+
+Occurences 3 // '26'
+Found at:
+::
+Line 51
+Section 81
+Starts At 51
+Ends At 71
+::
+Line 61
+Section 21
+Starts At 21
+Ends At 41
+::
+Line 71
+Section 61
+Starts At 31
+Ends At 51
+
+=====
+
+
+Occurences 2 // '93.2'
+Found at:
+::
+Line 11
+Section 91
+Starts At 01
+Ends At 41
+::
+Line 71
+Section 61
+Starts At 01
+Ends At 41
+
+=====
+
+
+Occurences 3 // '27'
+Found at:
+::
+Line 11
+Section 11
+Starts At 81
+Ends At 101
+::
+Line 61
+Section 41
+Starts At 51
+Ends At 71
+::
+Line 61
+Section 91
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 7 // 'onventiona'
+Found at:
+::
+Line 11
+Section 111
+Starts At 11
+Ends At 111
+::
+Line 21
+Section 111
+Starts At 11
+Ends At 111
+::
+Line 31
+Section 111
+Starts At 11
+Ends At 111
+::
+Line 41
+Section 111
+Starts At 11
+Ends At 111
+::
+Line 51
+Section 111
+Starts At 11
+Ends At 111
+::
+Line 61
+Section 111
+Starts At 11
+Ends At 111
+::
+Line 71
+Section 111
+Starts At 11
+Ends At 111
+
+=====
+
+
+Occurences 2 // '28'
+Found at:
+::
+Line 21
+Section 41
+Starts At 41
+Ends At 61
+::
+Line 51
+Section 21
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 4 // ' Bags'
+Found at:
+::
+Line 01
+Section 71
+Starts At 51
+Ends At 101
+::
+Line 01
+Section 81
+Starts At 51
+Ends At 101
+::
+Line 01
+Section 91
+Starts At 51
+Ends At 101
+::
+Line 01
+Section 101
+Starts At 61
+Ends At 111
+
+=====
+
+
+Occurences 7 // '015-'
+Found at:
+::
+Line 11
+Section 11
+Starts At 11
+Ends At 51
+::
+Line 21
+Section 11
+Starts At 11
+Ends At 51
+::
+Line 31
+Section 11
+Starts At 11
+Ends At 51
+::
+Line 41
+Section 11
+Starts At 11
+Ends At 51
+::
+Line 51
+Section 11
+Starts At 11
+Ends At 51
+::
+Line 61
+Section 11
+Starts At 11
+Ends At 51
+::
+Line 71
+Section 11
+Starts At 11
+Ends At 51
+
+=====
+
+
+Occurences 2 // 'P'
+Found at:
+::
+Line 01
+Section 21
+Starts At 71
+Ends At 81
+::
+Line 01
+Section 111
+Starts At 21
+Ends At 31
+
+=====
+
+
+Occurences 14 // '015'
+Found at:
+::
+Line 11
+Section 11
+Starts At 11
+Ends At 41
+::
+Line 11
+Section 121
+Starts At 11
+Ends At 41
+::
+Line 21
+Section 11
+Starts At 11
+Ends At 41
+::
+Line 21
+Section 121
+Starts At 11
+Ends At 41
+::
+Line 31
+Section 11
+Starts At 11
+Ends At 41
+::
+Line 31
+Section 121
+Starts At 11
+Ends At 41
+::
+Line 41
+Section 11
+Starts At 11
+Ends At 41
+::
+Line 41
+Section 121
+Starts At 11
+Ends At 41
+::
+Line 51
+Section 11
+Starts At 11
+Ends At 41
+::
+Line 51
+Section 121
+Starts At 11
+Ends At 41
+::
+Line 61
+Section 11
+Starts At 11
+Ends At 41
+::
+Line 61
+Section 121
+Starts At 11
+Ends At 41
+::
+Line 71
+Section 11
+Starts At 11
+Ends At 41
+::
+Line 71
+Section 121
+Starts At 11
+Ends At 41
+
+=====
+
+
+Occurences 2 // '93.'
+Found at:
+::
+Line 11
+Section 91
+Starts At 01
+Ends At 31
+::
+Line 71
+Section 61
+Starts At 01
+Ends At 31
+
+=====
+
+
+Occurences 7 // 'ntiona'
+Found at:
+::
+Line 11
+Section 111
+Starts At 51
+Ends At 111
+::
+Line 21
+Section 111
+Starts At 51
+Ends At 111
+::
+Line 31
+Section 111
+Starts At 51
+Ends At 111
+::
+Line 41
+Section 111
+Starts At 51
+Ends At 111
+::
+Line 51
+Section 111
+Starts At 51
+Ends At 111
+::
+Line 61
+Section 111
+Starts At 51
+Ends At 111
+::
+Line 71
+Section 111
+Starts At 51
+Ends At 111
+
+=====
+
+
+Occurences 2 // 'arg'
+Found at:
+::
+Line 01
+Section 91
+Starts At 11
+Ends At 41
+::
+Line 01
+Section 101
+Starts At 21
+Ends At 51
+
+=====
+
+
+Occurences 2 // 'tal '
+Found at:
+::
+Line 01
+Section 31
+Starts At 21
+Ends At 61
+::
+Line 01
+Section 71
+Starts At 21
+Ends At 61
+
+=====
+
+
+Occurences 7 // 'conventi'
+Found at:
+::
+Line 11
+Section 111
+Starts At 01
+Ends At 81
+::
+Line 21
+Section 111
+Starts At 01
+Ends At 81
+::
+Line 31
+Section 111
+Starts At 01
+Ends At 81
+::
+Line 41
+Section 111
+Starts At 01
+Ends At 81
+::
+Line 51
+Section 111
+Starts At 01
+Ends At 81
+::
+Line 61
+Section 111
+Starts At 01
+Ends At 81
+::
+Line 71
+Section 111
+Starts At 01
+Ends At 81
+
+=====
+
+
+Occurences 2 // 'e '
+Found at:
+::
+Line 01
+Section 91
+Starts At 41
+Ends At 61
+::
+Line 01
+Section 101
+Starts At 51
+Ends At 71
+
+=====
+
+
+Occurences 9 // '3.'
+Found at:
+::
+Line 11
+Section 81
+Starts At 31
+Ends At 51
+::
+Line 11
+Section 91
+Starts At 11
+Ends At 31
+::
+Line 31
+Section 91
+Starts At 21
+Ends At 41
+::
+Line 41
+Section 91
+Starts At 21
+Ends At 41
+::
+Line 51
+Section 71
+Starts At 31
+Ends At 51
+::
+Line 61
+Section 61
+Starts At 11
+Ends At 31
+::
+Line 61
+Section 71
+Starts At 31
+Ends At 51
+::
+Line 71
+Section 31
+Starts At 41
+Ends At 61
+::
+Line 71
+Section 61
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 2 // 'e Bags'
+Found at:
+::
+Line 01
+Section 91
+Starts At 41
+Ends At 101
+::
+Line 01
+Section 101
+Starts At 51
+Ends At 111
+
+=====
+
+
+Occurences 11 // 'Ba'
+Found at:
+::
+Line 01
+Section 71
+Starts At 61
+Ends At 81
+::
+Line 01
+Section 81
+Starts At 61
+Ends At 81
+::
+Line 01
+Section 91
+Starts At 61
+Ends At 81
+::
+Line 01
+Section 101
+Starts At 71
+Ends At 91
+::
+Line 11
+Section 131
+Starts At 21
+Ends At 41
+::
+Line 21
+Section 131
+Starts At 21
+Ends At 41
+::
+Line 31
+Section 131
+Starts At 21
+Ends At 41
+::
+Line 41
+Section 131
+Starts At 21
+Ends At 41
+::
+Line 51
+Section 131
+Starts At 21
+Ends At 41
+::
+Line 61
+Section 131
+Starts At 21
+Ends At 41
+::
+Line 71
+Section 131
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 3 // '33'
+Found at:
+::
+Line 11
+Section 21
+Starts At 21
+Ends At 41
+::
+Line 21
+Section 61
+Starts At 31
+Ends At 51
+::
+Line 41
+Section 91
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 34 // 'a'
+Found at:
+::
+Line 01
+Section 11
+Starts At 11
+Ends At 21
+::
+Line 01
+Section 21
+Starts At 01
+Ends At 11
+::
+Line 01
+Section 21
+Starts At 41
+Ends At 51
+::
+Line 01
+Section 31
+Starts At 31
+Ends At 41
+::
+Line 01
+Section 71
+Starts At 31
+Ends At 41
+::
+Line 01
+Section 71
+Starts At 71
+Ends At 81
+::
+Line 01
+Section 81
+Starts At 21
+Ends At 31
+::
+Line 01
+Section 81
+Starts At 71
+Ends At 81
+::
+Line 01
+Section 91
+Starts At 11
+Ends At 21
+::
+Line 01
+Section 91
+Starts At 71
+Ends At 81
+::
+Line 01
+Section 101
+Starts At 21
+Ends At 31
+::
+Line 01
+Section 101
+Starts At 81
+Ends At 91
+::
+Line 01
+Section 121
+Starts At 21
+Ends At 31
+::
+Line 11
+Section 111
+Starts At 101
+Ends At 111
+::
+Line 11
+Section 131
+Starts At 01
+Ends At 11
+::
+Line 11
+Section 131
+Starts At 31
+Ends At 41
+::
+Line 21
+Section 111
+Starts At 101
+Ends At 111
+::
+Line 21
+Section 131
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 131
+Starts At 31
+Ends At 41
+::
+Line 31
+Section 111
+Starts At 101
+Ends At 111
+::
+Line 31
+Section 131
+Starts At 01
+Ends At 11
+::
+Line 31
+Section 131
+Starts At 31
+Ends At 41
+::
+Line 41
+Section 111
+Starts At 101
+Ends At 111
+::
+Line 41
+Section 131
+Starts At 01
+Ends At 11
+::
+Line 41
+Section 131
+Starts At 31
+Ends At 41
+::
+Line 51
+Section 111
+Starts At 101
+Ends At 111
+::
+Line 51
+Section 131
+Starts At 01
+Ends At 11
+::
+Line 51
+Section 131
+Starts At 31
+Ends At 41
+::
+Line 61
+Section 111
+Starts At 101
+Ends At 111
+::
+Line 61
+Section 131
+Starts At 01
+Ends At 11
+::
+Line 61
+Section 131
+Starts At 31
+Ends At 41
+::
+Line 71
+Section 111
+Starts At 101
+Ends At 111
+::
+Line 71
+Section 131
+Starts At 01
+Ends At 11
+::
+Line 71
+Section 131
+Starts At 31
+Ends At 41
+
+=====
+
+
+Occurences 2 // '35'
+Found at:
+::
+Line 21
+Section 21
+Starts At 21
+Ends At 41
+::
+Line 31
+Section 71
+Starts At 51
+Ends At 71
+
+=====
+
+
+Occurences 8 // 'c'
+Found at:
+::
+Line 01
+Section 21
+Starts At 101
+Ends At 111
+::
+Line 11
+Section 111
+Starts At 01
+Ends At 11
+::
+Line 21
+Section 111
+Starts At 01
+Ends At 11
+::
+Line 31
+Section 111
+Starts At 01
+Ends At 11
+::
+Line 41
+Section 111
+Starts At 01
+Ends At 11
+::
+Line 51
+Section 111
+Starts At 01
+Ends At 11
+::
+Line 61
+Section 111
+Starts At 01
+Ends At 11
+::
+Line 71
+Section 111
+Starts At 01
+Ends At 11
+
+=====
+
+
+Occurences 4 // '36'
+Found at:
+::
+Line 11
+Section 31
+Starts At 31
+Ends At 51
+::
+Line 11
+Section 41
+Starts At 21
+Ends At 41
+::
+Line 71
+Section 41
+Starts At 11
+Ends At 31
+::
+Line 71
+Section 51
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 7 // 'ona'
+Found at:
+::
+Line 11
+Section 111
+Starts At 81
+Ends At 111
+::
+Line 21
+Section 111
+Starts At 81
+Ends At 111
+::
+Line 31
+Section 111
+Starts At 81
+Ends At 111
+::
+Line 41
+Section 111
+Starts At 81
+Ends At 111
+::
+Line 51
+Section 111
+Starts At 81
+Ends At 111
+::
+Line 61
+Section 111
+Starts At 81
+Ends At 111
+::
+Line 71
+Section 111
+Starts At 81
+Ends At 111
+
+=====
+
+
+Occurences 7 // 'bany'
+Found at:
+::
+Line 11
+Section 131
+Starts At 21
+Ends At 61
+::
+Line 21
+Section 131
+Starts At 21
+Ends At 61
+::
+Line 31
+Section 131
+Starts At 21
+Ends At 61
+::
+Line 41
+Section 131
+Starts At 21
+Ends At 61
+::
+Line 51
+Section 131
+Starts At 21
+Ends At 61
+::
+Line 61
+Section 131
+Starts At 21
+Ends At 61
+::
+Line 71
+Section 131
+Starts At 21
+Ends At 61
+
+=====
+
+
+Occurences 17 // 'e'
+Found at:
+::
+Line 01
+Section 11
+Starts At 31
+Ends At 41
+::
+Line 01
+Section 21
+Starts At 21
+Ends At 31
+::
+Line 01
+Section 21
+Starts At 61
+Ends At 71
+::
+Line 01
+Section 21
+Starts At 111
+Ends At 121
+::
+Line 01
+Section 31
+Starts At 111
+Ends At 121
+::
+Line 01
+Section 91
+Starts At 41
+Ends At 51
+::
+Line 01
+Section 101
+Starts At 51
+Ends At 61
+::
+Line 01
+Section 111
+Starts At 31
+Ends At 41
+::
+Line 01
+Section 121
+Starts At 11
+Ends At 21
+::
+Line 01
+Section 131
+Starts At 11
+Ends At 21
+::
+Line 11
+Section 111
+Starts At 41
+Ends At 51
+::
+Line 21
+Section 111
+Starts At 41
+Ends At 51
+::
+Line 31
+Section 111
+Starts At 41
+Ends At 51
+::
+Line 41
+Section 111
+Starts At 41
+Ends At 51
+::
+Line 51
+Section 111
+Starts At 41
+Ends At 51
+::
+Line 61
+Section 111
+Starts At 41
+Ends At 51
+::
+Line 71
+Section 111
+Starts At 41
+Ends At 51
+
+=====
+
+
+Occurences 3 // '38'
+Found at:
+::
+Line 21
+Section 51
+Starts At 31
+Ends At 51
+::
+Line 51
+Section 51
+Starts At 11
+Ends At 31
+::
+Line 51
+Section 51
+Starts At 31
+Ends At 51
+
+=====
+
+
+Occurences 2 // '39'
+Found at:
+::
+Line 51
+Section 31
+Starts At 31
+Ends At 51
+::
+Line 51
+Section 51
+Starts At 61
+Ends At 81
+
+=====
+
+
+Occurences 7 // 'nvent'
+Found at:
+::
+Line 11
+Section 111
+Starts At 21
+Ends At 71
+::
+Line 21
+Section 111
+Starts At 21
+Ends At 71
+::
+Line 31
+Section 111
+Starts At 21
+Ends At 71
+::
+Line 41
+Section 111
+Starts At 21
+Ends At 71
+::
+Line 51
+Section 111
+Starts At 21
+Ends At 71
+::
+Line 61
+Section 111
+Starts At 21
+Ends At 71
+::
+Line 71
+Section 111
+Starts At 21
+Ends At 71
+
+=====
+
+
+Occurences 8 // 'g'
+Found at:
+::
+Line 01
+Section 21
+Starts At 51
+Ends At 61
+::
+Line 01
+Section 71
+Starts At 81
+Ends At 91
+::
+Line 01
+Section 81
+Starts At 81
+Ends At 91
+::
+Line 01
+Section 91
+Starts At 31
+Ends At 41
+::
+Line 01
+Section 91
+Starts At 81
+Ends At 91
+::
+Line 01
+Section 101
+Starts At 41
+Ends At 51
+::
+Line 01
+Section 101
+Starts At 91
+Ends At 101
+::
+Line 01
+Section 131
+Starts At 21
+Ends At 31
+
+=====
+
+
+Occurences 9 // 'i'
+Found at:
+::
+Line 01
+Section 21
+Starts At 91
+Ends At 101
+::
+Line 01
+Section 131
+Starts At 31
+Ends At 41
+::
+Line 11
+Section 111
+Starts At 71
+Ends At 81
+::
+Line 21
+Section 111
+Starts At 71
+Ends At 81
+::
+Line 31
+Section 111
+Starts At 71
+Ends At 81
+::
+Line 41
+Section 111
+Starts At 71
+Ends At 81
+::
+Line 51
+Section 111
+Starts At 71
+Ends At 81
+::
+Line 61
+Section 111
+Starts At 71
+Ends At 81
+::
+Line 71
+Section 111
+Starts At 71
+Ends At 81
+
+=====
+
+
+Occurences 2 // '38.'
+Found at:
+::
+Line 21
+Section 51
+Starts At 31
+Ends At 61
+::
+Line 51
+Section 51
+Starts At 31
+Ends At 61
+
+=====
+
+
+Occurences 21 // 'l'
+Found at:
+::
+Line 01
+Section 31
+Starts At 41
+Ends At 51
+::
+Line 01
+Section 31
+Starts At 81
+Ends At 91
+::
+Line 01
+Section 71
+Starts At 41
+Ends At 51
+::
+Line 01
+Section 81
+Starts At 31
+Ends At 41
+::
+Line 01
+Section 81
+Starts At 41
+Ends At 51
+::
+Line 01
+Section 91
+Starts At 01
+Ends At 11
+::
+Line 01
+Section 101
+Starts At 11
+Ends At 21
+::
+Line 11
+Section 111
+Starts At 111
+Ends At 121
+::
+Line 11
+Section 131
+Starts At 11
+Ends At 21
+::
+Line 21
+Section 111
+Starts At 111
+Ends At 121
+::
+Line 21
+Section 131
+Starts At 11
+Ends At 21
+::
+Line 31
+Section 111
+Starts At 111
+Ends At 121
+::
+Line 31
+Section 131
+Starts At 11
+Ends At 21
+::
+Line 41
+Section 111
+Starts At 111
+Ends At 121
+::
+Line 41
+Section 131
+Starts At 11
+Ends At 21
+::
+Line 51
+Section 111
+Starts At 111
+Ends At 121
+::
+Line 51
+Section 131
+Starts At 11
+Ends At 21
+::
+Line 61
+Section 111
+Starts At 111
+Ends At 121
+::
+Line 61
+Section 131
+Starts At 11
+Ends At 21
+::
+Line 71
+Section 111
+Starts At 111
+Ends At 121
+::
+Line 71
+Section 131
+Starts At 11
+Ends At 21
+
+=====
+
+
+Occurences 7 // 'co'
+Found at:
+::
+Line 11
+Section 111
+Starts At 01
+Ends At 21
+::
+Line 21
+Section 111
+Starts At 01
+Ends At 21
+::
+Line 31
+Section 111
+Starts At 01
+Ends At 21
+::
+Line 41
+Section 111
+Starts At 01
+Ends At 21
+::
+Line 51
+Section 111
+Starts At 01
+Ends At 21
+::
+Line 61
+Section 111
+Starts At 01
+Ends At 21
+::
+Line 71
+Section 111
+Starts At 01
+Ends At 21
+
+=====
+
+
+Occurences 2 // 'm'
+Found at:
+::
+Line 01
+Section 31
+Starts At 101
+Ends At 111
+::
+Line 01
+Section 81
+Starts At 11
+Ends At 21
+
+=====
+
+
+Occurences 2 // 'ta'
+Found at:
+::
+Line 01
+Section 31
+Starts At 21
+Ends At 41
+::
+Line 01
+Section 71
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 2 // '3.76'
+Found at:
+::
+Line 41
+Section 91
+Starts At 21
+Ends At 61
+::
+Line 71
+Section 31
+Starts At 41
+Ends At 81
+
+=====
+
+
+Occurences 29 // 'n'
+Found at:
+::
+Line 01
+Section 131
+Starts At 51
+Ends At 61
+::
+Line 11
+Section 111
+Starts At 21
+Ends At 31
+::
+Line 11
+Section 111
+Starts At 51
+Ends At 61
+::
+Line 11
+Section 111
+Starts At 91
+Ends At 101
+::
+Line 11
+Section 131
+Starts At 41
+Ends At 51
+::
+Line 21
+Section 111
+Starts At 21
+Ends At 31
+::
+Line 21
+Section 111
+Starts At 51
+Ends At 61
+::
+Line 21
+Section 111
+Starts At 91
+Ends At 101
+::
+Line 21
+Section 131
+Starts At 41
+Ends At 51
+::
+Line 31
+Section 111
+Starts At 21
+Ends At 31
+::
+Line 31
+Section 111
+Starts At 51
+Ends At 61
+::
+Line 31
+Section 111
+Starts At 91
+Ends At 101
+::
+Line 31
+Section 131
+Starts At 41
+Ends At 51
+::
+Line 41
+Section 111
+Starts At 21
+Ends At 31
+::
+Line 41
+Section 111
+Starts At 51
+Ends At 61
+::
+Line 41
+Section 111
+Starts At 91
+Ends At 101
+::
+Line 41
+Section 131
+Starts At 41
+Ends At 51
+::
+Line 51
+Section 111
+Starts At 21
+Ends At 31
+::
+Line 51
+Section 111
+Starts At 51
+Ends At 61
+::
+Line 51
+Section 111
+Starts At 91
+Ends At 101
+::
+Line 51
+Section 131
+Starts At 41
+Ends At 51
+::
+Line 61
+Section 111
+Starts At 21
+Ends At 31
+::
+Line 61
+Section 111
+Starts At 51
+Ends At 61
+::
+Line 61
+Section 111
+Starts At 91
+Ends At 101
+::
+Line 61
+Section 131
+Starts At 41
+Ends At 51
+::
+Line 71
+Section 111
+Starts At 21
+Ends At 31
+::
+Line 71
+Section 111
+Starts At 51
+Ends At 61
+::
+Line 71
+Section 111
+Starts At 91
+Ends At 101
+::
+Line 71
+Section 131
+Starts At 41
+Ends At 51
+
+=====
+
+
+Occurences 18 // 'o'
+Found at:
+::
+Line 01
+Section 31
+Starts At 11
+Ends At 21
+::
+Line 01
+Section 31
+Starts At 71
+Ends At 81
+::
+Line 01
+Section 71
+Starts At 11
+Ends At 21
+::
+Line 01
+Section 131
+Starts At 41
+Ends At 51
+::
+Line 11
+Section 111
+Starts At 11
+Ends At 21
+::
+Line 11
+Section 111
+Starts At 81
+Ends At 91
+::
+Line 21
+Section 111
+Starts At 11
+Ends At 21
+::
+Line 21
+Section 111
+Starts At 81
+Ends At 91
+::
+Line 31
+Section 111
+Starts At 11
+Ends At 21
+::
+Line 31
+Section 111
+Starts At 81
+Ends At 91
+::
+Line 41
+Section 111
+Starts At 11
+Ends At 21
+::
+Line 41
+Section 111
+Starts At 81
+Ends At 91
+::
+Line 51
+Section 111
+Starts At 11
+Ends At 21
+::
+Line 51
+Section 111
+Starts At 81
+Ends At 91
+::
+Line 61
+Section 111
+Starts At 11
+Ends At 21
+::
+Line 61
+Section 111
+Starts At 81
+Ends At 91
+::
+Line 71
+Section 111
+Starts At 11
+Ends At 21
+::
+Line 71
+Section 111
+Starts At 81
+Ends At 91
+
+=====
+
+
+Occurences 2 // 'Tota'
+Found at:
+::
+Line 01
+Section 31
+Starts At 01
+Ends At 41
+::
+Line 01
+Section 71
+Starts At 01
+Ends At 41
+
+=====
+
+
+Occurences 6 // 'r'
+Found at:
+::
+Line 01
+Section 21
+Starts At 31
+Ends At 41
+::
+Line 01
+Section 21
+Starts At 81
+Ends At 91
+::
+Line 01
+Section 91
+Starts At 21
+Ends At 31
+::
+Line 01
+Section 101
+Starts At 31
+Ends At 41
+::
+Line 01
+Section 121
+Starts At 31
+Ends At 41
+::
+Line 01
+Section 131
+Starts At 01
+Ends At 11
+
+=====
+
+
+Occurences 5 // 's'
+Found at:
+::
+Line 01
+Section 71
+Starts At 91
+Ends At 101
+::
+Line 01
+Section 81
+Starts At 01
+Ends At 11
+::
+Line 01
+Section 81
+Starts At 91
+Ends At 101
+::
+Line 01
+Section 91
+Starts At 91
+Ends At 101
+::
+Line 01
+Section 101
+Starts At 101
+Ends At 111
+
+=====
+
+
+Occurences 13 // 't'
+Found at:
+::
+Line 01
+Section 11
+Starts At 21
+Ends At 31
+::
+Line 01
+Section 31
+Starts At 01
+Ends At 11
+::
+Line 01
+Section 31
+Starts At 21
+Ends At 31
+::
+Line 01
+Section 71
+Starts At 01
+Ends At 11
+::
+Line 01
+Section 71
+Starts At 21
+Ends At 31
+::
+Line 01
+Section 111
+Starts At 01
+Ends At 11
+::
+Line 11
+Section 111
+Starts At 61
+Ends At 71
+::
+Line 21
+Section 111
+Starts At 61
+Ends At 71
+::
+Line 31
+Section 111
+Starts At 61
+Ends At 71
+::
+Line 41
+Section 111
+Starts At 61
+Ends At 71
+::
+Line 51
+Section 111
+Starts At 61
+Ends At 71
+::
+Line 61
+Section 111
+Starts At 61
+Ends At 71
+::
+Line 71
+Section 111
+Starts At 61
+Ends At 71
+
+=====
+
+
+Occurences 7 // 'ti'
+Found at:
+::
+Line 11
+Section 111
+Starts At 61
+Ends At 81
+::
+Line 21
+Section 111
+Starts At 61
+Ends At 81
+::
+Line 31
+Section 111
+Starts At 61
+Ends At 81
+::
+Line 41
+Section 111
+Starts At 61
+Ends At 81
+::
+Line 51
+Section 111
+Starts At 61
+Ends At 81
+::
+Line 61
+Section 111
+Starts At 61
+Ends At 81
+::
+Line 71
+Section 111
+Starts At 61
+Ends At 81
+
+=====
+
+
+Occurences 9 // 'v'
+Found at:
+::
+Line 01
+Section 21
+Starts At 11
+Ends At 21
+::
+Line 01
+Section 31
+Starts At 61
+Ends At 71
+::
+Line 11
+Section 111
+Starts At 31
+Ends At 41
+::
+Line 21
+Section 111
+Starts At 31
+Ends At 41
+::
+Line 31
+Section 111
+Starts At 31
+Ends At 41
+::
+Line 41
+Section 111
+Starts At 31
+Ends At 41
+::
+Line 51
+Section 111
+Starts At 31
+Ends At 41
+::
+Line 61
+Section 111
+Starts At 31
+Ends At 41
+::
+Line 71
+Section 111
+Starts At 31
+Ends At 41
+
+=====
+
+
+Occurences 7 // 'onv'
+Found at:
+::
+Line 11
+Section 111
+Starts At 11
+Ends At 41
+::
+Line 21
+Section 111
+Starts At 11
+Ends At 41
+::
+Line 31
+Section 111
+Starts At 11
+Ends At 41
+::
+Line 41
+Section 111
+Starts At 11
+Ends At 41
+::
+Line 51
+Section 111
+Starts At 11
+Ends At 41
+::
+Line 61
+Section 111
+Starts At 11
+Ends At 41
+::
+Line 71
+Section 111
+Starts At 11
+Ends At 41
+
+=====
+
+
+Occurences 9 // 'y'
+Found at:
+::
+Line 01
+Section 111
+Starts At 11
+Ends At 21
+::
+Line 01
+Section 121
+Starts At 01
+Ends At 11
+::
+Line 11
+Section 131
+Starts At 51
+Ends At 61
+::
+Line 21
+Section 131
+Starts At 51
+Ends At 61
+::
+Line 31
+Section 131
+Starts At 51
+Ends At 61
+::
+Line 41
+Section 131
+Starts At 51
+Ends At 61
+::
+Line 51
+Section 131
+Starts At 51
+Ends At 61
+::
+Line 61
+Section 131
+Starts At 51
+Ends At 61
+::
+Line 71
+Section 131
+Starts At 51
+Ends At 61
+
+=====
+
+
+Occurences 3 // '15-11-'
+Found at:
+::
+Line 51
+Section 11
+Starts At 21
+Ends At 81
+::
+Line 61
+Section 11
+Starts At 21
+Ends At 81
+::
+Line 71
+Section 11
+Starts At 21
+Ends At 81
+
+=====
+
+
+Occurences 4 // '4.'
+Found at:
+::
+Line 11
+Section 51
+Starts At 41
+Ends At 61
+::
+Line 21
+Section 41
+Starts At 21
+Ends At 41
+::
+Line 31
+Section 41
+Starts At 21
+Ends At 41
+::
+Line 61
+Section 41
+Starts At 31
+Ends At 51
+
+=====
+
+
+Occurences 7 // 'nvention'
+Found at:
+::
+Line 11
+Section 111
+Starts At 21
+Ends At 101
+::
+Line 21
+Section 111
+Starts At 21
+Ends At 101
+::
+Line 31
+Section 111
+Starts At 21
+Ends At 101
+::
+Line 41
+Section 111
+Starts At 21
+Ends At 101
+::
+Line 51
+Section 111
+Starts At 21
+Ends At 101
+::
+Line 61
+Section 111
+Starts At 21
+Ends At 101
+::
+Line 71
+Section 111
+Starts At 21
+Ends At 101
+
+=====
+
+
+Occurences 2 // '40'
+Found at:
+::
+Line 01
+Section 41
+Starts At 01
+Ends At 21
+::
+Line 21
+Section 81
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 2 // '6.4'
+Found at:
+::
+Line 41
+Section 51
+Starts At 41
+Ends At 71
+::
+Line 61
+Section 81
+Starts At 31
+Ends At 61
+
+=====
+
+
+Occurences 2 // '41'
+Found at:
+::
+Line 41
+Section 51
+Starts At 61
+Ends At 81
+::
+Line 51
+Section 41
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 3 // '42'
+Found at:
+::
+Line 01
+Section 51
+Starts At 01
+Ends At 21
+::
+Line 11
+Section 31
+Starts At 11
+Ends At 31
+::
+Line 31
+Section 81
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 7 // 'onal'
+Found at:
+::
+Line 11
+Section 111
+Starts At 81
+Ends At 121
+::
+Line 21
+Section 111
+Starts At 81
+Ends At 121
+::
+Line 31
+Section 111
+Starts At 81
+Ends At 121
+::
+Line 41
+Section 111
+Starts At 81
+Ends At 121
+::
+Line 51
+Section 111
+Starts At 81
+Ends At 121
+::
+Line 61
+Section 111
+Starts At 81
+Ends At 121
+::
+Line 71
+Section 111
+Starts At 81
+Ends At 121
+
+=====
+
+
+Occurences 2 // '43'
+Found at:
+::
+Line 51
+Section 51
+Starts At 01
+Ends At 21
+::
+Line 61
+Section 61
+Starts At 01
+Ends At 21
+
+=====
+
+
+Occurences 4 // ' Ba'
+Found at:
+::
+Line 01
+Section 71
+Starts At 51
+Ends At 81
+::
+Line 01
+Section 81
+Starts At 51
+Ends At 81
+::
+Line 01
+Section 91
+Starts At 51
+Ends At 81
+::
+Line 01
+Section 101
+Starts At 61
+Ends At 91
+
+=====
+
+
+Occurences 3 // '44'
+Found at:
+::
+Line 11
+Section 51
+Starts At 11
+Ends At 31
+::
+Line 21
+Section 51
+Starts At 01
+Ends At 21
+::
+Line 61
+Section 91
+Starts At 41
+Ends At 61
+
+=====
+
+
+Occurences 2 // '6.8'
+Found at:
+::
+Line 11
+Section 71
+Starts At 31
+Ends At 61
+::
+Line 71
+Section 81
+Starts At 31
+Ends At 61
+
+=====
+
+
+Occurences 3 // '45'
+Found at:
+::
+Line 11
+Section 51
+Starts At 21
+Ends At 41
+::
+Line 31
+Section 71
+Starts At 21
+Ends At 41
+::
+Line 71
+Section 31
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 2 // '46'
+Found at:
+::
+Line 01
+Section 41
+Starts At 21
+Ends At 41
+::
+Line 21
+Section 51
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 7 // 'vent'
+Found at:
+::
+Line 11
+Section 111
+Starts At 31
+Ends At 71
+::
+Line 21
+Section 111
+Starts At 31
+Ends At 71
+::
+Line 31
+Section 111
+Starts At 31
+Ends At 71
+::
+Line 41
+Section 111
+Starts At 31
+Ends At 71
+::
+Line 51
+Section 111
+Starts At 31
+Ends At 71
+::
+Line 61
+Section 111
+Starts At 31
+Ends At 71
+::
+Line 71
+Section 111
+Starts At 31
+Ends At 71
+
+=====
+
+
+Occurences 2 // '47'
+Found at:
+::
+Line 01
+Section 61
+Starts At 01
+Ends At 21
+::
+Line 61
+Section 81
+Starts At 51
+Ends At 71
+
+=====
+
+
+Occurences 4 // '48'
+Found at:
+::
+Line 11
+Section 61
+Starts At 01
+Ends At 21
+::
+Line 21
+Section 31
+Starts At 11
+Ends At 31
+::
+Line 51
+Section 41
+Starts At 41
+Ends At 61
+::
+Line 61
+Section 51
+Starts At 01
+Ends At 21
+
+=====
+
+
+Occurences 2 // 'rge B'
+Found at:
+::
+Line 01
+Section 91
+Starts At 21
+Ends At 71
+::
+Line 01
+Section 101
+Starts At 31
+Ends At 81
+
+=====
+
+
+Occurences 2 // '49'
+Found at:
+::
+Line 21
+Section 91
+Starts At 31
+Ends At 51
+::
+Line 31
+Section 51
+Starts At 41
+Ends At 61
+
+=====
+
+
+Occurences 7 // 'nventio'
+Found at:
+::
+Line 11
+Section 111
+Starts At 21
+Ends At 91
+::
+Line 21
+Section 111
+Starts At 21
+Ends At 91
+::
+Line 31
+Section 111
+Starts At 21
+Ends At 91
+::
+Line 41
+Section 111
+Starts At 21
+Ends At 91
+::
+Line 51
+Section 111
+Starts At 21
+Ends At 91
+::
+Line 61
+Section 111
+Starts At 21
+Ends At 91
+::
+Line 71
+Section 111
+Starts At 21
+Ends At 91
+
+=====
+
+
+Occurences 7 // '15-'
+Found at:
+::
+Line 11
+Section 11
+Starts At 21
+Ends At 51
+::
+Line 21
+Section 11
+Starts At 21
+Ends At 51
+::
+Line 31
+Section 11
+Starts At 21
+Ends At 51
+::
+Line 41
+Section 11
+Starts At 21
+Ends At 51
+::
+Line 51
+Section 11
+Starts At 21
+Ends At 51
+::
+Line 61
+Section 11
+Starts At 21
+Ends At 51
+::
+Line 71
+Section 11
+Starts At 21
+Ends At 51
+
+=====
+
+
+Occurences 4 // '015-12'
+Found at:
+::
+Line 11
+Section 11
+Starts At 11
+Ends At 71
+::
+Line 21
+Section 11
+Starts At 11
+Ends At 71
+::
+Line 31
+Section 11
+Starts At 11
+Ends At 71
+::
+Line 41
+Section 11
+Starts At 11
+Ends At 71
+
+=====
+
+
+Occurences 3 // '015-11'
+Found at:
+::
+Line 51
+Section 11
+Starts At 11
+Ends At 71
+::
+Line 61
+Section 11
+Starts At 11
+Ends At 71
+::
+Line 71
+Section 11
+Starts At 11
+Ends At 71
+
+=====
+
+
+Occurences 2 // '03.'
+Found at:
+::
+Line 11
+Section 81
+Starts At 21
+Ends At 51
+::
+Line 31
+Section 91
+Starts At 11
+Ends At 41
+
+=====
+
+
+Occurences 7 // 'entio'
+Found at:
+::
+Line 11
+Section 111
+Starts At 41
+Ends At 91
+::
+Line 21
+Section 111
+Starts At 41
+Ends At 91
+::
+Line 31
+Section 111
+Starts At 41
+Ends At 91
+::
+Line 41
+Section 111
+Starts At 41
+Ends At 91
+::
+Line 51
+Section 111
+Starts At 41
+Ends At 91
+::
+Line 61
+Section 111
+Starts At 41
+Ends At 91
+::
+Line 71
+Section 111
+Starts At 41
+Ends At 91
+
+=====
+
+
+Occurences 2 // 'l Bags'
+Found at:
+::
+Line 01
+Section 71
+Starts At 41
+Ends At 101
+::
+Line 01
+Section 81
+Starts At 41
+Ends At 101
+
+=====
+
+
+Occurences 2 // '83.'
+Found at:
+::
+Line 51
+Section 71
+Starts At 21
+Ends At 51
+::
+Line 61
+Section 71
+Starts At 21
+Ends At 51
+
+=====
+
+
+Occurences 7 // '5-'
+Found at:
+::
+Line 11
+Section 11
+Starts At 31
+Ends At 51
+::
+Line 21
+Section 11
+Starts At 31
+Ends At 51
+::
+Line 31
+Section 11
+Starts At 31
+Ends At 51
+::
+Line 41
+Section 11
+Starts At 31
+Ends At 51
+::
+Line 51
+Section 11
+Starts At 31
+Ends At 51
+::
+Line 61
+Section 11
+Starts At 31
+Ends At 51
+::
+Line 71
+Section 11
+Starts At 31
+Ends At 51
+
+=====
+
+
+Occurences 3 // '5.'
+Found at:
+::
+Line 21
+Section 71
+Starts At 31
+Ends At 51
+::
+Line 31
+Section 71
+Starts At 31
+Ends At 51
+::
+Line 51
+Section 61
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 7 // '5-1'
+Found at:
+::
+Line 11
+Section 11
+Starts At 31
+Ends At 61
+::
+Line 21
+Section 11
+Starts At 31
+Ends At 61
+::
+Line 31
+Section 11
+Starts At 31
+Ends At 61
+::
+Line 41
+Section 11
+Starts At 31
+Ends At 61
+::
+Line 51
+Section 11
+Starts At 31
+Ends At 61
+::
+Line 61
+Section 11
+Starts At 31
+Ends At 61
+::
+Line 71
+Section 11
+Starts At 31
+Ends At 61
+
+=====
+
+
+Occurences 7 // 'entional'
+Found at:
+::
+Line 11
+Section 111
+Starts At 41
+Ends At 121
+::
+Line 21
+Section 111
+Starts At 41
+Ends At 121
+::
+Line 31
+Section 111
+Starts At 41
+Ends At 121
+::
+Line 41
+Section 111
+Starts At 41
+Ends At 121
+::
+Line 51
+Section 111
+Starts At 41
+Ends At 121
+::
+Line 61
+Section 111
+Starts At 41
+Ends At 121
+::
+Line 71
+Section 111
+Starts At 41
+Ends At 121
+
+=====
+
+
+Occurences 2 // 'To'
+Found at:
+::
+Line 01
+Section 31
+Starts At 01
+Ends At 21
+::
+Line 01
+Section 71
+Starts At 01
+Ends At 21
+
+=====
+
+
+Occurences 7 // 'tio'
+Found at:
+::
+Line 11
+Section 111
+Starts At 61
+Ends At 91
+::
+Line 21
+Section 111
+Starts At 61
+Ends At 91
+::
+Line 31
+Section 111
+Starts At 61
+Ends At 91
+::
+Line 41
+Section 111
+Starts At 61
+Ends At 91
+::
+Line 51
+Section 111
+Starts At 61
+Ends At 91
+::
+Line 61
+Section 111
+Starts At 61
+Ends At 91
+::
+Line 71
+Section 111
+Starts At 61
+Ends At 91
+
+=====
+
+
+Occurences 2 // '15-12-2'
+Found at:
+::
+Line 11
+Section 11
+Starts At 21
+Ends At 91
+::
+Line 21
+Section 11
+Starts At 21
+Ends At 91
+
+=====
+
+
+Occurences 3 // '54'
+Found at:
+::
+Line 11
+Section 51
+Starts At 01
+Ends At 21
+::
+Line 11
+Section 51
+Starts At 31
+Ends At 51
+::
+Line 21
+Section 31
+Starts At 01
+Ends At 21
+
+=====
+
+
+Occurences 2 // '55'
+Found at:
+::
+Line 61
+Section 31
+Starts At 01
+Ends At 21
+::
+Line 61
+Section 81
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 3 // '5-11'
+Found at:
+::
+Line 51
+Section 11
+Starts At 31
+Ends At 71
+::
+Line 61
+Section 11
+Starts At 31
+Ends At 71
+::
+Line 71
+Section 11
+Starts At 31
+Ends At 71
+
+=====
+
+
+Occurences 3 // '56'
+Found at:
+::
+Line 21
+Section 71
+Starts At 51
+Ends At 71
+::
+Line 41
+Section 81
+Starts At 01
+Ends At 21
+::
+Line 61
+Section 81
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 4 // '5-12'
+Found at:
+::
+Line 11
+Section 11
+Starts At 31
+Ends At 71
+::
+Line 21
+Section 11
+Starts At 31
+Ends At 71
+::
+Line 31
+Section 11
+Starts At 31
+Ends At 71
+::
+Line 41
+Section 11
+Starts At 31
+Ends At 71
+
+=====
+
+
+Occurences 4 // '15-12'
+Found at:
+::
+Line 11
+Section 11
+Starts At 21
+Ends At 71
+::
+Line 21
+Section 11
+Starts At 21
+Ends At 71
+::
+Line 31
+Section 11
+Starts At 21
+Ends At 71
+::
+Line 41
+Section 11
+Starts At 21
+Ends At 71
+
+=====
+
+
+Occurences 2 // 'l Ba'
+Found at:
+::
+Line 01
+Section 71
+Starts At 41
+Ends At 81
+::
+Line 01
+Section 81
+Starts At 41
+Ends At 81
+
+=====
+
+
+Occurences 3 // '15-11'
+Found at:
+::
+Line 51
+Section 11
+Starts At 21
+Ends At 71
+::
+Line 61
+Section 11
+Starts At 21
+Ends At 71
+::
+Line 71
+Section 11
+Starts At 21
+Ends At 71
+
+=====
+
+
+Occurences 3 // '58'
+Found at:
+::
+Line 21
+Section 61
+Starts At 01
+Ends At 21
+::
+Line 41
+Section 61
+Starts At 31
+Ends At 51
+::
+Line 41
+Section 71
+Starts At 01
+Ends At 21
+
+=====
+
+
+Occurences 7 // 'ventional'
+Found at:
+::
+Line 11
+Section 111
+Starts At 31
+Ends At 121
+::
+Line 21
+Section 111
+Starts At 31
+Ends At 121
+::
+Line 31
+Section 111
+Starts At 31
+Ends At 121
+::
+Line 41
+Section 111
+Starts At 31
+Ends At 121
+::
+Line 51
+Section 111
+Starts At 31
+Ends At 121
+::
+Line 61
+Section 111
+Starts At 31
+Ends At 121
+::
+Line 71
+Section 111
+Starts At 31
+Ends At 121
+
+=====
+
+
+Occurences 2 // '59'
+Found at:
+::
+Line 51
+Section 81
+Starts At 01
+Ends At 21
+::
+Line 61
+Section 31
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 7 // 'en'
+Found at:
+::
+Line 11
+Section 111
+Starts At 41
+Ends At 61
+::
+Line 21
+Section 111
+Starts At 41
+Ends At 61
+::
+Line 31
+Section 111
+Starts At 41
+Ends At 61
+::
+Line 41
+Section 111
+Starts At 41
+Ends At 61
+::
+Line 51
+Section 111
+Starts At 41
+Ends At 61
+::
+Line 61
+Section 111
+Starts At 41
+Ends At 61
+::
+Line 71
+Section 111
+Starts At 41
+Ends At 61
+
+=====
+
+
+Occurences 7 // 'lbany'
+Found at:
+::
+Line 11
+Section 131
+Starts At 11
+Ends At 61
+::
+Line 21
+Section 131
+Starts At 11
+Ends At 61
+::
+Line 31
+Section 131
+Starts At 11
+Ends At 61
+::
+Line 41
+Section 131
+Starts At 11
+Ends At 61
+::
+Line 51
+Section 131
+Starts At 11
+Ends At 61
+::
+Line 61
+Section 131
+Starts At 11
+Ends At 61
+::
+Line 71
+Section 131
+Starts At 11
+Ends At 61
+
+=====
+
+
+Occurences 2 // 'Larg'
+Found at:
+::
+Line 01
+Section 91
+Starts At 01
+Ends At 41
+::
+Line 01
+Section 101
+Starts At 11
+Ends At 51
+
+=====
+
+
+Occurences 8 // 've'
+Found at:
+::
+Line 01
+Section 21
+Starts At 11
+Ends At 31
+::
+Line 11
+Section 111
+Starts At 31
+Ends At 51
+::
+Line 21
+Section 111
+Starts At 31
+Ends At 51
+::
+Line 31
+Section 111
+Starts At 31
+Ends At 51
+::
+Line 41
+Section 111
+Starts At 31
+Ends At 51
+::
+Line 51
+Section 111
+Starts At 31
+Ends At 51
+::
+Line 61
+Section 111
+Starts At 31
+Ends At 51
+::
+Line 71
+Section 111
+Starts At 31
+Ends At 51
+
+=====
+
+
+Occurences 2 // '96.'
+Found at:
+::
+Line 11
+Section 71
+Starts At 21
+Ends At 51
+::
+Line 71
+Section 81
+Starts At 21
+Ends At 51
+
+=====
+
+
+Occurences 2 // '72.'
+Found at:
+::
+Line 41
+Section 61
+Starts At 01
+Ends At 31
+::
+Line 71
+Section 51
+Starts At 31
+Ends At 61
+
+=====
+
+
+Occurences 8 // '6.'
+Found at:
+::
+Line 11
+Section 31
+Starts At 41
+Ends At 61
+::
+Line 11
+Section 41
+Starts At 31
+Ends At 51
+::
+Line 11
+Section 71
+Starts At 31
+Ends At 51
+::
+Line 21
+Section 31
+Starts At 41
+Ends At 61
+::
+Line 41
+Section 51
+Starts At 41
+Ends At 61
+::
+Line 51
+Section 81
+Starts At 31
+Ends At 51
+::
+Line 61
+Section 81
+Starts At 31
+Ends At 51
+::
+Line 71
+Section 81
+Starts At 31
+Ends At 51
+
+=====
+
+
+Occurences 2 // '61'
+Found at:
+::
+Line 51
+Section 71
+Starts At 01
+Ends At 21
+::
+Line 61
+Section 61
+Starts At 31
+Ends At 51
+
+=====
+
+
+Occurences 7 // 'onvent'
+Found at:
+::
+Line 11
+Section 111
+Starts At 11
+Ends At 71
+::
+Line 21
+Section 111
+Starts At 11
+Ends At 71
+::
+Line 31
+Section 111
+Starts At 11
+Ends At 71
+::
+Line 41
+Section 111
+Starts At 11
+Ends At 71
+::
+Line 51
+Section 111
+Starts At 11
+Ends At 71
+::
+Line 61
+Section 111
+Starts At 11
+Ends At 71
+::
+Line 71
+Section 111
+Starts At 11
+Ends At 71
+
+=====
+
+
+Occurences 2 // '62'
+Found at:
+::
+Line 11
+Section 31
+Starts At 61
+Ends At 81
+::
+Line 11
+Section 81
+Starts At 51
+Ends At 71
+
+=====
+
+
+Occurences 2 // 'arge '
+Found at:
+::
+Line 01
+Section 91
+Starts At 11
+Ends At 61
+::
+Line 01
+Section 101
+Starts At 21
+Ends At 71
+
+=====
+
+
+Occurences 5 // '67'
+Found at:
+::
+Line 21
+Section 41
+Starts At 01
+Ends At 21
+::
+Line 31
+Section 51
+Starts At 71
+Ends At 91
+::
+Line 41
+Section 81
+Starts At 11
+Ends At 31
+::
+Line 61
+Section 51
+Starts At 31
+Ends At 51
+::
+Line 71
+Section 51
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 2 // '68'
+Found at:
+::
+Line 61
+Section 71
+Starts At 11
+Ends At 31
+::
+Line 71
+Section 41
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 2 // '69'
+Found at:
+::
+Line 11
+Section 71
+Starts At 11
+Ends At 31
+::
+Line 51
+Section 91
+Starts At 41
+Ends At 61
+
+=====
+
+
+Occurences 7 // 'nventi'
+Found at:
+::
+Line 11
+Section 111
+Starts At 21
+Ends At 81
+::
+Line 21
+Section 111
+Starts At 21
+Ends At 81
+::
+Line 31
+Section 111
+Starts At 21
+Ends At 81
+::
+Line 41
+Section 111
+Starts At 21
+Ends At 81
+::
+Line 51
+Section 111
+Starts At 21
+Ends At 81
+::
+Line 61
+Section 111
+Starts At 21
+Ends At 81
+::
+Line 71
+Section 111
+Starts At 21
+Ends At 81
+
+=====
+
+
+Occurences 7 // 'ntion'
+Found at:
+::
+Line 11
+Section 111
+Starts At 51
+Ends At 101
+::
+Line 21
+Section 111
+Starts At 51
+Ends At 101
+::
+Line 31
+Section 111
+Starts At 51
+Ends At 101
+::
+Line 41
+Section 111
+Starts At 51
+Ends At 101
+::
+Line 51
+Section 111
+Starts At 51
+Ends At 101
+::
+Line 61
+Section 111
+Starts At 51
+Ends At 101
+::
+Line 71
+Section 111
+Starts At 51
+Ends At 101
+
+=====
+
+
+Occurences 2 // 'ge Bag'
+Found at:
+::
+Line 01
+Section 91
+Starts At 31
+Ends At 91
+::
+Line 01
+Section 101
+Starts At 41
+Ends At 101
+
+=====
+
+
+Occurences 4 // '-12-'
+Found at:
+::
+Line 11
+Section 11
+Starts At 41
+Ends At 81
+::
+Line 21
+Section 11
+Starts At 41
+Ends At 81
+::
+Line 31
+Section 11
+Starts At 41
+Ends At 81
+::
+Line 41
+Section 11
+Starts At 41
+Ends At 81
+
+=====
+
+
+Occurences 2 // 'arge B'
+Found at:
+::
+Line 01
+Section 91
+Starts At 11
+Ends At 71
+::
+Line 01
+Section 101
+Starts At 21
+Ends At 81
+
+=====
+
+
+Occurences 2 // 'arge Ba'
+Found at:
+::
+Line 01
+Section 91
+Starts At 11
+Ends At 81
+::
+Line 01
+Section 101
+Starts At 21
+Ends At 91
+
+=====
+
+
+Occurences 2 // '97.'
+Found at:
+::
+Line 21
+Section 91
+Starts At 01
+Ends At 31
+::
+Line 51
+Section 91
+Starts At 11
+Ends At 41
+
+=====
+
+
+Occurences 2 // 'rge'
+Found at:
+::
+Line 01
+Section 91
+Starts At 21
+Ends At 51
+::
+Line 01
+Section 101
+Starts At 31
+Ends At 61
+
+=====
+
+
+Occurences 2 // '.16'
+Found at:
+::
+Line 11
+Section 61
+Starts At 21
+Ends At 51
+::
+Line 41
+Section 71
+Starts At 41
+Ends At 71
+
+=====
+
+
+Occurences 3 // '-11-'
+Found at:
+::
+Line 51
+Section 11
+Starts At 41
+Ends At 81
+::
+Line 61
+Section 11
+Starts At 41
+Ends At 81
+::
+Line 71
+Section 11
+Starts At 41
+Ends At 81
+
+=====
+
+
+Occurences 2 // 'Total '
+Found at:
+::
+Line 01
+Section 31
+Starts At 01
+Ends At 61
+::
+Line 01
+Section 71
+Starts At 01
+Ends At 61
+
+=====
+
+
+Occurences 2 // '015-11-2'
+Found at:
+::
+Line 51
+Section 11
+Starts At 11
+Ends At 91
+::
+Line 61
+Section 11
+Starts At 11
+Ends At 91
+
+=====
+
+
+Occurences 5 // '7.'
+Found at:
+::
+Line 21
+Section 91
+Starts At 11
+Ends At 31
+::
+Line 41
+Section 81
+Starts At 31
+Ends At 51
+::
+Line 51
+Section 91
+Starts At 21
+Ends At 41
+::
+Line 61
+Section 51
+Starts At 41
+Ends At 61
+::
+Line 61
+Section 91
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 3 // '72'
+Found at:
+::
+Line 41
+Section 61
+Starts At 01
+Ends At 21
+::
+Line 71
+Section 51
+Starts At 31
+Ends At 51
+::
+Line 71
+Section 51
+Starts At 61
+Ends At 81
+
+=====
+
+
+Occurences 3 // '015-11-'
+Found at:
+::
+Line 51
+Section 11
+Starts At 11
+Ends At 81
+::
+Line 61
+Section 11
+Starts At 11
+Ends At 81
+::
+Line 71
+Section 11
+Starts At 11
+Ends At 81
+
+=====
+
+
+Occurences 2 // '74'
+Found at:
+::
+Line 11
+Section 41
+Starts At 51
+Ends At 71
+::
+Line 21
+Section 41
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 2 // '15-11-2'
+Found at:
+::
+Line 51
+Section 11
+Starts At 21
+Ends At 91
+::
+Line 61
+Section 11
+Starts At 21
+Ends At 91
+
+=====
+
+
+Occurences 3 // 'ge'
+Found at:
+::
+Line 01
+Section 21
+Starts At 51
+Ends At 71
+::
+Line 01
+Section 91
+Starts At 31
+Ends At 51
+::
+Line 01
+Section 101
+Starts At 41
+Ends At 61
+
+=====
+
+
+Occurences 4 // '76'
+Found at:
+::
+Line 21
+Section 31
+Starts At 31
+Ends At 51
+::
+Line 41
+Section 51
+Starts At 31
+Ends At 51
+::
+Line 41
+Section 91
+Starts At 41
+Ends At 61
+::
+Line 71
+Section 31
+Starts At 61
+Ends At 81
+
+=====
+
+
+Occurences 7 // '15-1'
+Found at:
+::
+Line 11
+Section 11
+Starts At 21
+Ends At 61
+::
+Line 21
+Section 11
+Starts At 21
+Ends At 61
+::
+Line 31
+Section 11
+Starts At 21
+Ends At 61
+::
+Line 41
+Section 11
+Starts At 21
+Ends At 61
+::
+Line 51
+Section 11
+Starts At 21
+Ends At 61
+::
+Line 61
+Section 11
+Starts At 21
+Ends At 61
+::
+Line 71
+Section 11
+Starts At 21
+Ends At 61
+
+=====
+
+
+Occurences 2 // '77'
+Found at:
+::
+Line 01
+Section 61
+Starts At 11
+Ends At 31
+::
+Line 41
+Section 81
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 7 // 'convention'
+Found at:
+::
+Line 11
+Section 111
+Starts At 01
+Ends At 101
+::
+Line 21
+Section 111
+Starts At 01
+Ends At 101
+::
+Line 31
+Section 111
+Starts At 01
+Ends At 101
+::
+Line 41
+Section 111
+Starts At 01
+Ends At 101
+::
+Line 51
+Section 111
+Starts At 01
+Ends At 101
+::
+Line 61
+Section 111
+Starts At 01
+Ends At 101
+::
+Line 71
+Section 111
+Starts At 01
+Ends At 101
+
+=====
+
+
+Occurences 3 // '78'
+Found at:
+::
+Line 41
+Section 31
+Starts At 01
+Ends At 21
+::
+Line 51
+Section 61
+Starts At 31
+Ends At 51
+::
+Line 61
+Section 31
+Starts At 61
+Ends At 81
+
+=====
+
+
+Occurences 2 // '79'
+Found at:
+::
+Line 31
+Section 41
+Starts At 01
+Ends At 21
+::
+Line 61
+Section 31
+Starts At 31
+Ends At 51
+
+=====
+
+
+Occurences 2 // 'arge'
+Found at:
+::
+Line 01
+Section 91
+Starts At 11
+Ends At 51
+::
+Line 01
+Section 101
+Starts At 21
+Ends At 61
+
+=====
+
+
+Occurences 2 // 'otal'
+Found at:
+::
+Line 01
+Section 31
+Starts At 11
+Ends At 51
+::
+Line 01
+Section 71
+Starts At 11
+Ends At 51
+
+=====
+
+
+Occurences 7 // 'ent'
+Found at:
+::
+Line 11
+Section 111
+Starts At 41
+Ends At 71
+::
+Line 21
+Section 111
+Starts At 41
+Ends At 71
+::
+Line 31
+Section 111
+Starts At 41
+Ends At 71
+::
+Line 41
+Section 111
+Starts At 41
+Ends At 71
+::
+Line 51
+Section 111
+Starts At 41
+Ends At 71
+::
+Line 61
+Section 111
+Starts At 41
+Ends At 71
+::
+Line 71
+Section 111
+Starts At 41
+Ends At 71
+
+=====
+
+
+Occurences 4 // 'gs'
+Found at:
+::
+Line 01
+Section 71
+Starts At 81
+Ends At 101
+::
+Line 01
+Section 81
+Starts At 81
+Ends At 101
+::
+Line 01
+Section 91
+Starts At 81
+Ends At 101
+::
+Line 01
+Section 101
+Starts At 91
+Ends At 111
+
+=====
+
+
+Occurences 7 // 'enti'
+Found at:
+::
+Line 11
+Section 111
+Starts At 41
+Ends At 81
+::
+Line 21
+Section 111
+Starts At 41
+Ends At 81
+::
+Line 31
+Section 111
+Starts At 41
+Ends At 81
+::
+Line 41
+Section 111
+Starts At 41
+Ends At 81
+::
+Line 51
+Section 111
+Starts At 41
+Ends At 81
+::
+Line 61
+Section 111
+Starts At 41
+Ends At 81
+::
+Line 71
+Section 111
+Starts At 41
+Ends At 81
+
+=====
+
+
+Occurences 3 // '.26'
+Found at:
+::
+Line 51
+Section 81
+Starts At 41
+Ends At 71
+::
+Line 61
+Section 21
+Starts At 11
+Ends At 41
+::
+Line 71
+Section 61
+Starts At 21
+Ends At 51
+
+=====
+
+
+Occurences 2 // '.28'
+Found at:
+::
+Line 21
+Section 41
+Starts At 31
+Ends At 61
+::
+Line 51
+Section 21
+Starts At 11
+Ends At 41
+
+=====
+
+
+Occurences 14 // '2015'
+Found at:
+::
+Line 11
+Section 11
+Starts At 01
+Ends At 41
+::
+Line 11
+Section 121
+Starts At 01
+Ends At 41
+::
+Line 21
+Section 11
+Starts At 01
+Ends At 41
+::
+Line 21
+Section 121
+Starts At 01
+Ends At 41
+::
+Line 31
+Section 11
+Starts At 01
+Ends At 41
+::
+Line 31
+Section 121
+Starts At 01
+Ends At 41
+::
+Line 41
+Section 11
+Starts At 01
+Ends At 41
+::
+Line 41
+Section 121
+Starts At 01
+Ends At 41
+::
+Line 51
+Section 11
+Starts At 01
+Ends At 41
+::
+Line 51
+Section 121
+Starts At 01
+Ends At 41
+::
+Line 61
+Section 11
+Starts At 01
+Ends At 41
+::
+Line 61
+Section 121
+Starts At 01
+Ends At 41
+::
+Line 71
+Section 11
+Starts At 01
+Ends At 41
+::
+Line 71
+Section 121
+Starts At 01
+Ends At 41
+
+=====
+
+
+Occurences 7 // '8.'
+Found at:
+::
+Line 11
+Section 61
+Starts At 11
+Ends At 31
+::
+Line 21
+Section 51
+Starts At 41
+Ends At 61
+::
+Line 21
+Section 61
+Starts At 11
+Ends At 31
+::
+Line 21
+Section 81
+Starts At 31
+Ends At 51
+::
+Line 51
+Section 51
+Starts At 41
+Ends At 61
+::
+Line 71
+Section 41
+Starts At 31
+Ends At 51
+::
+Line 71
+Section 71
+Starts At 31
+Ends At 51
+
+=====
+
+
+Occurences 7 // 'ntional'
+Found at:
+::
+Line 11
+Section 111
+Starts At 51
+Ends At 121
+::
+Line 21
+Section 111
+Starts At 51
+Ends At 121
+::
+Line 31
+Section 111
+Starts At 51
+Ends At 121
+::
+Line 41
+Section 111
+Starts At 51
+Ends At 121
+::
+Line 51
+Section 111
+Starts At 51
+Ends At 121
+::
+Line 61
+Section 111
+Starts At 51
+Ends At 121
+::
+Line 71
+Section 111
+Starts At 51
+Ends At 121
+
+=====
+
+
+Occurences 2 // '80'
+Found at:
+::
+Line 31
+Section 81
+Starts At 01
+Ends At 21
+::
+Line 61
+Section 51
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 2 // '4.2'
+Found at:
+::
+Line 21
+Section 41
+Starts At 21
+Ends At 51
+::
+Line 61
+Section 41
+Starts At 31
+Ends At 61
+
+=====
+
+
+Occurences 5 // '81'
+Found at:
+::
+Line 21
+Section 51
+Starts At 61
+Ends At 81
+::
+Line 31
+Section 71
+Starts At 01
+Ends At 21
+::
+Line 41
+Section 71
+Starts At 11
+Ends At 31
+::
+Line 71
+Section 81
+Starts At 01
+Ends At 21
+::
+Line 71
+Section 81
+Starts At 51
+Ends At 71
+
+=====
+
+
+Occurences 7 // 'onve'
+Found at:
+::
+Line 11
+Section 111
+Starts At 11
+Ends At 51
+::
+Line 21
+Section 111
+Starts At 11
+Ends At 51
+::
+Line 31
+Section 111
+Starts At 11
+Ends At 51
+::
+Line 41
+Section 111
+Starts At 11
+Ends At 51
+::
+Line 51
+Section 111
+Starts At 11
+Ends At 51
+::
+Line 61
+Section 111
+Starts At 11
+Ends At 51
+::
+Line 71
+Section 111
+Starts At 11
+Ends At 51
+
+=====
+
+
+Occurences 7 // 'venti'
+Found at:
+::
+Line 11
+Section 111
+Starts At 31
+Ends At 81
+::
+Line 21
+Section 111
+Starts At 31
+Ends At 81
+::
+Line 31
+Section 111
+Starts At 31
+Ends At 81
+::
+Line 41
+Section 111
+Starts At 31
+Ends At 81
+::
+Line 51
+Section 111
+Starts At 31
+Ends At 81
+::
+Line 61
+Section 111
+Starts At 31
+Ends At 81
+::
+Line 71
+Section 111
+Starts At 31
+Ends At 81
+
+=====
+
+
+Occurences 5 // '83'
+Found at:
+::
+Line 51
+Section 51
+Starts At 21
+Ends At 41
+::
+Line 51
+Section 71
+Starts At 21
+Ends At 41
+::
+Line 61
+Section 71
+Starts At 21
+Ends At 41
+::
+Line 71
+Section 31
+Starts At 01
+Ends At 21
+::
+Line 71
+Section 71
+Starts At 01
+Ends At 21
+
+=====
+
+
+Occurences 4 // '015-12-'
+Found at:
+::
+Line 11
+Section 11
+Starts At 11
+Ends At 81
+::
+Line 21
+Section 11
+Starts At 11
+Ends At 81
+::
+Line 31
+Section 11
+Starts At 11
+Ends At 81
+::
+Line 41
+Section 11
+Starts At 11
+Ends At 81
+
+=====
+
+
+Occurences 4 // '86'
+Found at:
+::
+Line 11
+Section 71
+Starts At 01
+Ends At 21
+::
+Line 11
+Section 81
+Starts At 01
+Ends At 21
+::
+Line 51
+Section 81
+Starts At 21
+Ends At 41
+::
+Line 71
+Section 71
+Starts At 51
+Ends At 71
+
+=====
+
+
+Occurences 2 // '87'
+Found at:
+::
+Line 11
+Section 71
+Starts At 51
+Ends At 71
+::
+Line 21
+Section 31
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 2 // 'otal '
+Found at:
+::
+Line 01
+Section 31
+Starts At 11
+Ends At 61
+::
+Line 01
+Section 71
+Starts At 11
+Ends At 61
+
+=====
+
+
+Occurences 4 // '2015-12-'
+Found at:
+::
+Line 11
+Section 11
+Starts At 01
+Ends At 81
+::
+Line 21
+Section 11
+Starts At 01
+Ends At 81
+::
+Line 31
+Section 11
+Starts At 01
+Ends At 81
+::
+Line 41
+Section 11
+Starts At 01
+Ends At 81
+
+=====
+
+
+Occurences 2 // 'ge '
+Found at:
+::
+Line 01
+Section 91
+Starts At 31
+Ends At 61
+::
+Line 01
+Section 101
+Starts At 41
+Ends At 71
+
+=====
+
+
+Occurences 4 // 'ags'
+Found at:
+::
+Line 01
+Section 71
+Starts At 71
+Ends At 101
+::
+Line 01
+Section 81
+Starts At 71
+Ends At 101
+::
+Line 01
+Section 91
+Starts At 71
+Ends At 101
+::
+Line 01
+Section 101
+Starts At 81
+Ends At 111
+
+=====
+
+
+Occurences 3 // '-11'
+Found at:
+::
+Line 51
+Section 11
+Starts At 41
+Ends At 71
+::
+Line 61
+Section 11
+Starts At 41
+Ends At 71
+::
+Line 71
+Section 11
+Starts At 41
+Ends At 71
+
+=====
+
+
+Occurences 4 // '-12'
+Found at:
+::
+Line 11
+Section 11
+Starts At 41
+Ends At 71
+::
+Line 21
+Section 11
+Starts At 41
+Ends At 71
+::
+Line 31
+Section 11
+Starts At 41
+Ends At 71
+::
+Line 41
+Section 11
+Starts At 41
+Ends At 71
+
+=====
+
+
+Occurences 2 // '.33'
+Found at:
+::
+Line 11
+Section 21
+Starts At 11
+Ends At 41
+::
+Line 21
+Section 61
+Starts At 21
+Ends At 51
+
+=====
+
+
+Occurences 2 // '197'
+Found at:
+::
+Line 41
+Section 51
+Starts At 11
+Ends At 41
+::
+Line 51
+Section 91
+Starts At 01
+Ends At 31
+
+=====
+
+
+Occurences 2 // '.35'
+Found at:
+::
+Line 21
+Section 21
+Starts At 11
+Ends At 41
+::
+Line 31
+Section 71
+Starts At 41
+Ends At 71
+
+=====
+
+
+Occurences 3 // '9.'
+Found at:
+::
+Line 31
+Section 51
+Starts At 51
+Ends At 71
+::
+Line 51
+Section 31
+Starts At 41
+Ends At 61
+::
+Line 61
+Section 31
+Starts At 41
+Ends At 61
+
+=====
+
+
+Occurences 2 // '91'
+Found at:
+::
+Line 31
+Section 51
+Starts At 21
+Ends At 41
+::
+Line 61
+Section 71
+Starts At 51
+Ends At 71
+
+=====
+
+
+Occurences 7 // 'nal'
+Found at:
+::
+Line 11
+Section 111
+Starts At 91
+Ends At 121
+::
+Line 21
+Section 111
+Starts At 91
+Ends At 121
+::
+Line 31
+Section 111
+Starts At 91
+Ends At 121
+::
+Line 41
+Section 111
+Starts At 91
+Ends At 121
+::
+Line 51
+Section 111
+Starts At 91
+Ends At 121
+::
+Line 61
+Section 111
+Starts At 91
+Ends At 121
+::
+Line 71
+Section 111
+Starts At 91
+Ends At 121
+
+=====
+
+
+Occurences 2 // '92'
+Found at:
+::
+Line 41
+Section 31
+Starts At 31
+Ends At 51
+::
+Line 71
+Section 41
+Starts At 51
+Ends At 71
+
+=====
+
+
+Occurences 3 // '93'
+Found at:
+::
+Line 11
+Section 91
+Starts At 01
+Ends At 21
+::
+Line 31
+Section 21
+Starts At 21
+Ends At 41
+::
+Line 71
+Section 61
+Starts At 01
+Ends At 21
+
+=====
+
+
+Occurences 7 // 'conv'
+Found at:
+::
+Line 11
+Section 111
+Starts At 01
+Ends At 41
+::
+Line 21
+Section 111
+Starts At 01
+Ends At 41
+::
+Line 31
+Section 111
+Starts At 01
+Ends At 41
+::
+Line 41
+Section 111
+Starts At 01
+Ends At 41
+::
+Line 51
+Section 111
+Starts At 01
+Ends At 41
+::
+Line 61
+Section 111
+Starts At 01
+Ends At 41
+::
+Line 71
+Section 111
+Starts At 01
+Ends At 41
+
+=====
+
+
+Occurences 3 // '94'
+Found at:
+::
+Line 21
+Section 81
+Starts At 01
+Ends At 21
+::
+Line 31
+Section 41
+Starts At 11
+Ends At 31
+::
+Line 51
+Section 41
+Starts At 01
+Ends At 21
+
+=====
+
+
+Occurences 2 // '95'
+Found at:
+::
+Line 21
+Section 71
+Starts At 01
+Ends At 21
+::
+Line 51
+Section 71
+Starts At 51
+Ends At 71
+
+=====
+
+
+Occurences 2 // '5-12-2'
+Found at:
+::
+Line 11
+Section 11
+Starts At 31
+Ends At 91
+::
+Line 21
+Section 11
+Starts At 31
+Ends At 91
+
+=====
+
+
+Occurences 2 // '96'
+Found at:
+::
+Line 11
+Section 71
+Starts At 21
+Ends At 41
+::
+Line 71
+Section 81
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 2 // 'ota'
+Found at:
+::
+Line 01
+Section 31
+Starts At 11
+Ends At 41
+::
+Line 01
+Section 71
+Starts At 11
+Ends At 41
+
+=====
+
+
+Occurences 4 // '97'
+Found at:
+::
+Line 21
+Section 91
+Starts At 01
+Ends At 21
+::
+Line 41
+Section 51
+Starts At 21
+Ends At 41
+::
+Line 51
+Section 91
+Starts At 11
+Ends At 31
+::
+Line 61
+Section 31
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 2 // '98'
+Found at:
+::
+Line 21
+Section 31
+Starts At 61
+Ends At 81
+::
+Line 51
+Section 81
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 3 // '99'
+Found at:
+::
+Line 41
+Section 31
+Starts At 21
+Ends At 41
+::
+Line 61
+Section 51
+Starts At 61
+Ends At 81
+::
+Line 71
+Section 21
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 7 // 'tion'
+Found at:
+::
+Line 11
+Section 111
+Starts At 61
+Ends At 101
+::
+Line 21
+Section 111
+Starts At 61
+Ends At 101
+::
+Line 31
+Section 111
+Starts At 61
+Ends At 101
+::
+Line 41
+Section 111
+Starts At 61
+Ends At 101
+::
+Line 51
+Section 111
+Starts At 61
+Ends At 101
+::
+Line 61
+Section 111
+Starts At 61
+Ends At 101
+::
+Line 71
+Section 111
+Starts At 61
+Ends At 101
+
+=====
+
+
+Occurences 8 // 'io'
+Found at:
+::
+Line 01
+Section 131
+Starts At 31
+Ends At 51
+::
+Line 11
+Section 111
+Starts At 71
+Ends At 91
+::
+Line 21
+Section 111
+Starts At 71
+Ends At 91
+::
+Line 31
+Section 111
+Starts At 71
+Ends At 91
+::
+Line 41
+Section 111
+Starts At 71
+Ends At 91
+::
+Line 51
+Section 111
+Starts At 71
+Ends At 91
+::
+Line 61
+Section 111
+Starts At 71
+Ends At 91
+::
+Line 71
+Section 111
+Starts At 71
+Ends At 91
+
+=====
+
+
+Occurences 2 // 'arge Bag'
+Found at:
+::
+Line 01
+Section 91
+Starts At 11
+Ends At 91
+::
+Line 01
+Section 101
+Starts At 21
+Ends At 101
+
+=====
+
+
+Occurences 2 // 'arge Bags'
+Found at:
+::
+Line 01
+Section 91
+Starts At 11
+Ends At 101
+::
+Line 01
+Section 101
+Starts At 21
+Ends At 111
+
+=====
+
+
+Occurences 2 // '76.'
+Found at:
+::
+Line 21
+Section 31
+Starts At 31
+Ends At 61
+::
+Line 41
+Section 51
+Starts At 31
+Ends At 61
+
+=====
+
+
+Occurences 7 // 'onven'
+Found at:
+::
+Line 11
+Section 111
+Starts At 11
+Ends At 61
+::
+Line 21
+Section 111
+Starts At 11
+Ends At 61
+::
+Line 31
+Section 111
+Starts At 11
+Ends At 61
+::
+Line 41
+Section 111
+Starts At 11
+Ends At 61
+::
+Line 51
+Section 111
+Starts At 11
+Ends At 61
+::
+Line 61
+Section 111
+Starts At 11
+Ends At 61
+::
+Line 71
+Section 111
+Starts At 11
+Ends At 61
+
+=====
+
+
+Occurences 3 // 'l '
+Found at:
+::
+Line 01
+Section 31
+Starts At 41
+Ends At 61
+::
+Line 01
+Section 71
+Starts At 41
+Ends At 61
+::
+Line 01
+Section 81
+Starts At 41
+Ends At 61
+
+=====
+
+
+Occurences 2 // '3.2'
+Found at:
+::
+Line 11
+Section 91
+Starts At 11
+Ends At 41
+::
+Line 71
+Section 61
+Starts At 11
+Ends At 41
+
+=====
+
+
+Occurences 2 // 'Tot'
+Found at:
+::
+Line 01
+Section 31
+Starts At 01
+Ends At 31
+::
+Line 01
+Section 71
+Starts At 01
+Ends At 31
+
+=====
+
+
+Occurences 2 // 'ge Ba'
+Found at:
+::
+Line 01
+Section 91
+Starts At 31
+Ends At 81
+::
+Line 01
+Section 101
+Starts At 41
+Ends At 91
+
+=====
+
+
+Occurences 2 // '2015-12-2'
+Found at:
+::
+Line 11
+Section 11
+Starts At 01
+Ends At 91
+::
+Line 21
+Section 11
+Starts At 01
+Ends At 91
+
+=====
+
+
+Occurences 2 // '3.6'
+Found at:
+::
+Line 11
+Section 81
+Starts At 31
+Ends At 61
+::
+Line 61
+Section 61
+Starts At 11
+Ends At 41
+
+=====
+
+
+Occurences 2 // '3.7'
+Found at:
+::
+Line 41
+Section 91
+Starts At 21
+Ends At 51
+::
+Line 71
+Section 31
+Starts At 41
+Ends At 71
+
+=====
+
+
+Occurences 2 // '3.9'
+Found at:
+::
+Line 51
+Section 71
+Starts At 31
+Ends At 61
+::
+Line 61
+Section 71
+Starts At 31
+Ends At 61
+
+=====
+
+
+Occurences 3 // '2015-11'
+Found at:
+::
+Line 51
+Section 11
+Starts At 01
+Ends At 71
+::
+Line 61
+Section 11
+Starts At 01
+Ends At 71
+::
+Line 71
+Section 11
+Starts At 01
+Ends At 71
+
+=====
+
+
+Occurences 2 // 'e B'
+Found at:
+::
+Line 01
+Section 91
+Starts At 41
+Ends At 71
+::
+Line 01
+Section 101
+Starts At 51
+Ends At 81
+
+=====
+
+
+Occurences 2 // 'Large'
+Found at:
+::
+Line 01
+Section 91
+Starts At 01
+Ends At 51
+::
+Line 01
+Section 101
+Starts At 11
+Ends At 61
+
+=====
+
+
+Occurences 4 // '2015-12'
+Found at:
+::
+Line 11
+Section 11
+Starts At 01
+Ends At 71
+::
+Line 21
+Section 11
+Starts At 01
+Ends At 71
+::
+Line 31
+Section 11
+Starts At 01
+Ends At 71
+::
+Line 41
+Section 11
+Starts At 01
+Ends At 71
+
+=====
+
+
+Occurences 2 // 'ge Bags'
+Found at:
+::
+Line 01
+Section 91
+Starts At 31
+Ends At 101
+::
+Line 01
+Section 101
+Starts At 41
+Ends At 111
+
+=====
+
+
+Occurences 2 // 'al '
+Found at:
+::
+Line 01
+Section 31
+Starts At 31
+Ends At 61
+::
+Line 01
+Section 71
+Starts At 31
+Ends At 61
+
+=====
+
+
+Occurences 2 // '2-2'
+Found at:
+::
+Line 11
+Section 11
+Starts At 61
+Ends At 91
+::
+Line 21
+Section 11
+Starts At 61
+Ends At 91
+
+=====
+
+
+Occurences 7 // 'tiona'
+Found at:
+::
+Line 11
+Section 111
+Starts At 61
+Ends At 111
+::
+Line 21
+Section 111
+Starts At 61
+Ends At 111
+::
+Line 31
+Section 111
+Starts At 61
+Ends At 111
+::
+Line 41
+Section 111
+Starts At 61
+Ends At 111
+::
+Line 51
+Section 111
+Starts At 61
+Ends At 111
+::
+Line 61
+Section 111
+Starts At 61
+Ends At 111
+::
+Line 71
+Section 111
+Starts At 61
+Ends At 111
+
+=====
+
+
+Occurences 2 // 'Large '
+Found at:
+::
+Line 01
+Section 91
+Starts At 01
+Ends At 61
+::
+Line 01
+Section 101
+Starts At 11
+Ends At 71
+
+=====
+
+
+Occurences 7 // '2015-'
+Found at:
+::
+Line 11
+Section 11
+Starts At 01
+Ends At 51
+::
+Line 21
+Section 11
+Starts At 01
+Ends At 51
+::
+Line 31
+Section 11
+Starts At 01
+Ends At 51
+::
+Line 41
+Section 11
+Starts At 01
+Ends At 51
+::
+Line 51
+Section 11
+Starts At 01
+Ends At 51
+::
+Line 61
+Section 11
+Starts At 01
+Ends At 51
+::
+Line 71
+Section 11
+Starts At 01
+Ends At 51
+
+=====
+
+
+Occurences 2 // '5-11-2'
+Found at:
+::
+Line 51
+Section 11
+Starts At 31
+Ends At 91
+::
+Line 61
+Section 11
+Starts At 31
+Ends At 91
+
+=====
+
+
+Occurences 7 // 'onvention'
+Found at:
+::
+Line 11
+Section 111
+Starts At 11
+Ends At 101
+::
+Line 21
+Section 111
+Starts At 11
+Ends At 101
+::
+Line 31
+Section 111
+Starts At 11
+Ends At 101
+::
+Line 41
+Section 111
+Starts At 11
+Ends At 101
+::
+Line 51
+Section 111
+Starts At 11
+Ends At 101
+::
+Line 61
+Section 111
+Starts At 11
+Ends At 101
+::
+Line 71
+Section 111
+Starts At 11
+Ends At 101
+
+=====
+
+
+Occurences 7 // 'ntio'
+Found at:
+::
+Line 11
+Section 111
+Starts At 51
+Ends At 91
+::
+Line 21
+Section 111
+Starts At 51
+Ends At 91
+::
+Line 31
+Section 111
+Starts At 51
+Ends At 91
+::
+Line 41
+Section 111
+Starts At 51
+Ends At 91
+::
+Line 51
+Section 111
+Starts At 51
+Ends At 91
+::
+Line 61
+Section 111
+Starts At 51
+Ends At 91
+::
+Line 71
+Section 111
+Starts At 51
+Ends At 91
+
+=====
+
+
+Occurences 3 // '2015-11-'
+Found at:
+::
+Line 51
+Section 11
+Starts At 01
+Ends At 81
+::
+Line 61
+Section 11
+Starts At 01
+Ends At 81
+::
+Line 71
+Section 11
+Starts At 01
+Ends At 81
+
+=====
+
+
+Occurences 7 // 'nti'
+Found at:
+::
+Line 11
+Section 111
+Starts At 51
+Ends At 81
+::
+Line 21
+Section 111
+Starts At 51
+Ends At 81
+::
+Line 31
+Section 111
+Starts At 51
+Ends At 81
+::
+Line 41
+Section 111
+Starts At 51
+Ends At 81
+::
+Line 51
+Section 111
+Starts At 51
+Ends At 81
+::
+Line 61
+Section 111
+Starts At 51
+Ends At 81
+::
+Line 71
+Section 111
+Starts At 51
+Ends At 81
+
+=====
+
+
+Occurences 2 // 'rge '
+Found at:
+::
+Line 01
+Section 91
+Starts At 21
+Ends At 61
+::
+Line 01
+Section 101
+Starts At 31
+Ends At 71
+
+=====
+
+
+Occurences 7 // 'ventiona'
+Found at:
+::
+Line 11
+Section 111
+Starts At 31
+Ends At 111
+::
+Line 21
+Section 111
+Starts At 31
+Ends At 111
+::
+Line 31
+Section 111
+Starts At 31
+Ends At 111
+::
+Line 41
+Section 111
+Starts At 31
+Ends At 111
+::
+Line 51
+Section 111
+Starts At 31
+Ends At 111
+::
+Line 61
+Section 111
+Starts At 31
+Ends At 111
+::
+Line 71
+Section 111
+Starts At 31
+Ends At 111
+
+=====
+
+
+Occurences 7 // 'iona'
+Found at:
+::
+Line 11
+Section 111
+Starts At 71
+Ends At 111
+::
+Line 21
+Section 111
+Starts At 71
+Ends At 111
+::
+Line 31
+Section 111
+Starts At 71
+Ends At 111
+::
+Line 41
+Section 111
+Starts At 71
+Ends At 111
+::
+Line 51
+Section 111
+Starts At 71
+Ends At 111
+::
+Line 61
+Section 111
+Starts At 71
+Ends At 111
+::
+Line 71
+Section 111
+Starts At 71
+Ends At 111
+
+=====
+
+
+Occurences 2 // '.62'
+Found at:
+::
+Line 11
+Section 31
+Starts At 51
+Ends At 81
+::
+Line 11
+Section 81
+Starts At 41
+Ends At 71
+
+=====
+
+
+Occurences 7 // 'onventional'
+Found at:
+::
+Line 11
+Section 111
+Starts At 11
+Ends At 121
+::
+Line 21
+Section 111
+Starts At 11
+Ends At 121
+::
+Line 31
+Section 111
+Starts At 11
+Ends At 121
+::
+Line 41
+Section 111
+Starts At 11
+Ends At 121
+::
+Line 51
+Section 111
+Starts At 11
+Ends At 121
+::
+Line 61
+Section 111
+Starts At 11
+Ends At 121
+::
+Line 71
+Section 111
+Starts At 11
+Ends At 121
+
+=====
+
+
+Occurences 2 // 'rge Bag'
+Found at:
+::
+Line 01
+Section 91
+Starts At 21
+Ends At 91
+::
+Line 01
+Section 101
+Starts At 31
+Ends At 101
+
+=====
+
+
+Occurences 2 // '2.0'
+Found at:
+::
+Line 41
+Section 41
+Starts At 31
+Ends At 61
+::
+Line 71
+Section 91
+Starts At 21
+Ends At 51
+
+=====
+
+
+Occurences 3 // '5-11-'
+Found at:
+::
+Line 51
+Section 11
+Starts At 31
+Ends At 81
+::
+Line 61
+Section 11
+Starts At 31
+Ends At 81
+::
+Line 71
+Section 11
+Starts At 31
+Ends At 81
+
+=====
+
+
+Occurences 7 // 'lb'
+Found at:
+::
+Line 11
+Section 131
+Starts At 11
+Ends At 31
+::
+Line 21
+Section 131
+Starts At 11
+Ends At 31
+::
+Line 31
+Section 131
+Starts At 11
+Ends At 31
+::
+Line 41
+Section 131
+Starts At 11
+Ends At 31
+::
+Line 51
+Section 131
+Starts At 11
+Ends At 31
+::
+Line 61
+Section 131
+Starts At 11
+Ends At 31
+::
+Line 71
+Section 131
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 7 // 'Alb'
+Found at:
+::
+Line 11
+Section 131
+Starts At 01
+Ends At 31
+::
+Line 21
+Section 131
+Starts At 01
+Ends At 31
+::
+Line 31
+Section 131
+Starts At 01
+Ends At 31
+::
+Line 41
+Section 131
+Starts At 01
+Ends At 31
+::
+Line 51
+Section 131
+Starts At 01
+Ends At 31
+::
+Line 61
+Section 131
+Starts At 01
+Ends At 31
+::
+Line 71
+Section 131
+Starts At 01
+Ends At 31
+
+=====
+
+
+Occurences 2 // '2015-11-2'
+Found at:
+::
+Line 51
+Section 11
+Starts At 01
+Ends At 91
+::
+Line 61
+Section 11
+Starts At 01
+Ends At 91
+
+=====
+
+
+Occurences 2 // 'Lar'
+Found at:
+::
+Line 01
+Section 91
+Starts At 01
+Ends At 31
+::
+Line 01
+Section 101
+Starts At 11
+Ends At 41
+
+=====
+
+
+Occurences 7 // 'con'
+Found at:
+::
+Line 11
+Section 111
+Starts At 01
+Ends At 31
+::
+Line 21
+Section 111
+Starts At 01
+Ends At 31
+::
+Line 31
+Section 111
+Starts At 01
+Ends At 31
+::
+Line 41
+Section 111
+Starts At 01
+Ends At 31
+::
+Line 51
+Section 111
+Starts At 01
+Ends At 31
+::
+Line 61
+Section 111
+Starts At 01
+Ends At 31
+::
+Line 71
+Section 111
+Starts At 01
+Ends At 31
+
+=====
+
+
+Occurences 7 // 'ventio'
+Found at:
+::
+Line 11
+Section 111
+Starts At 31
+Ends At 91
+::
+Line 21
+Section 111
+Starts At 31
+Ends At 91
+::
+Line 31
+Section 111
+Starts At 31
+Ends At 91
+::
+Line 41
+Section 111
+Starts At 31
+Ends At 91
+::
+Line 51
+Section 111
+Starts At 31
+Ends At 91
+::
+Line 61
+Section 111
+Starts At 31
+Ends At 91
+::
+Line 71
+Section 111
+Starts At 31
+Ends At 91
+
+=====
+
+
+Occurences 7 // 'conventiona'
+Found at:
+::
+Line 11
+Section 111
+Starts At 01
+Ends At 111
+::
+Line 21
+Section 111
+Starts At 01
+Ends At 111
+::
+Line 31
+Section 111
+Starts At 01
+Ends At 111
+::
+Line 41
+Section 111
+Starts At 01
+Ends At 111
+::
+Line 51
+Section 111
+Starts At 01
+Ends At 111
+::
+Line 61
+Section 111
+Starts At 01
+Ends At 111
+::
+Line 71
+Section 111
+Starts At 01
+Ends At 111
+
+=====
+
+
+Occurences 2 // '.76'
+Found at:
+::
+Line 41
+Section 91
+Starts At 31
+Ends At 61
+::
+Line 71
+Section 31
+Starts At 51
+Ends At 81
+
+=====
+
+
+Occurences 7 // 'vention'
+Found at:
+::
+Line 11
+Section 111
+Starts At 31
+Ends At 101
+::
+Line 21
+Section 111
+Starts At 31
+Ends At 101
+::
+Line 31
+Section 111
+Starts At 31
+Ends At 101
+::
+Line 41
+Section 111
+Starts At 31
+Ends At 101
+::
+Line 51
+Section 111
+Starts At 31
+Ends At 101
+::
+Line 61
+Section 111
+Starts At 31
+Ends At 101
+::
+Line 71
+Section 111
+Starts At 31
+Ends At 101
+
+=====
+
+
+Occurences 2 // 'l B'
+Found at:
+::
+Line 01
+Section 71
+Starts At 41
+Ends At 71
+::
+Line 01
+Section 81
+Starts At 41
+Ends At 71
+
+=====
+
+
+Occurences 2 // '.78'
+Found at:
+::
+Line 51
+Section 61
+Starts At 21
+Ends At 51
+::
+Line 61
+Section 31
+Starts At 51
+Ends At 81
+
+=====
+
+
+Occurences 7 // 'convent'
+Found at:
+::
+Line 11
+Section 111
+Starts At 01
+Ends At 71
+::
+Line 21
+Section 111
+Starts At 01
+Ends At 71
+::
+Line 31
+Section 111
+Starts At 01
+Ends At 71
+::
+Line 41
+Section 111
+Starts At 01
+Ends At 71
+::
+Line 51
+Section 111
+Starts At 01
+Ends At 71
+::
+Line 61
+Section 111
+Starts At 01
+Ends At 71
+::
+Line 71
+Section 111
+Starts At 01
+Ends At 71
+
+=====
+
+
+Occurences 2 // '12-2'
+Found at:
+::
+Line 11
+Section 11
+Starts At 51
+Ends At 91
+::
+Line 21
+Section 11
+Starts At 51
+Ends At 91
+
+=====
+
+
+Occurences 4 // 'Bags'
+Found at:
+::
+Line 01
+Section 71
+Starts At 61
+Ends At 101
+::
+Line 01
+Section 81
+Starts At 61
+Ends At 101
+::
+Line 01
+Section 91
+Starts At 61
+Ends At 101
+::
+Line 01
+Section 101
+Starts At 71
+Ends At 111
+
+=====
+
+
+Occurences 4 // '5-12-'
+Found at:
+::
+Line 11
+Section 11
+Starts At 31
+Ends At 81
+::
+Line 21
+Section 11
+Starts At 31
+Ends At 81
+::
+Line 31
+Section 11
+Starts At 31
+Ends At 81
+::
+Line 41
+Section 11
+Starts At 31
+Ends At 81
+
+=====
+
+
+Occurences 7 // 'onventio'
+Found at:
+::
+Line 11
+Section 111
+Starts At 11
+Ends At 91
+::
+Line 21
+Section 111
+Starts At 11
+Ends At 91
+::
+Line 31
+Section 111
+Starts At 11
+Ends At 91
+::
+Line 41
+Section 111
+Starts At 11
+Ends At 91
+::
+Line 51
+Section 111
+Starts At 11
+Ends At 91
+::
+Line 61
+Section 111
+Starts At 11
+Ends At 91
+::
+Line 71
+Section 111
+Starts At 11
+Ends At 91
+
+=====
+
+
+Occurences 2 // 'La'
+Found at:
+::
+Line 01
+Section 91
+Starts At 01
+Ends At 21
+::
+Line 01
+Section 101
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 2 // '1-2'
+Found at:
+::
+Line 51
+Section 11
+Starts At 61
+Ends At 91
+::
+Line 61
+Section 11
+Starts At 61
+Ends At 91
+
+=====
+
+
+Occurences 7 // 'nve'
+Found at:
+::
+Line 11
+Section 111
+Starts At 21
+Ends At 51
+::
+Line 21
+Section 111
+Starts At 21
+Ends At 51
+::
+Line 31
+Section 111
+Starts At 21
+Ends At 51
+::
+Line 41
+Section 111
+Starts At 21
+Ends At 51
+::
+Line 51
+Section 111
+Starts At 21
+Ends At 51
+::
+Line 61
+Section 111
+Starts At 21
+Ends At 51
+::
+Line 71
+Section 111
+Starts At 21
+Ends At 51
+
+=====
+
+
+Occurences 2 // 'tal'
+Found at:
+::
+Line 01
+Section 31
+Starts At 21
+Ends At 51
+::
+Line 01
+Section 71
+Starts At 21
+Ends At 51
+
+=====
+
+
+Occurences 7 // 'ven'
+Found at:
+::
+Line 11
+Section 111
+Starts At 31
+Ends At 61
+::
+Line 21
+Section 111
+Starts At 31
+Ends At 61
+::
+Line 31
+Section 111
+Starts At 31
+Ends At 61
+::
+Line 41
+Section 111
+Starts At 31
+Ends At 61
+::
+Line 51
+Section 111
+Starts At 31
+Ends At 61
+::
+Line 61
+Section 111
+Starts At 31
+Ends At 61
+::
+Line 71
+Section 111
+Starts At 31
+Ends At 61
+
+=====
+
+
+Occurences 4 // '15-12-'
+Found at:
+::
+Line 11
+Section 11
+Starts At 21
+Ends At 81
+::
+Line 21
+Section 11
+Starts At 21
+Ends At 81
+::
+Line 31
+Section 11
+Starts At 21
+Ends At 81
+::
+Line 41
+Section 11
+Starts At 21
+Ends At 81
+
+=====
+
+
+Occurences 7 // 'ention'
+Found at:
+::
+Line 11
+Section 111
+Starts At 41
+Ends At 101
+::
+Line 21
+Section 111
+Starts At 41
+Ends At 101
+::
+Line 31
+Section 111
+Starts At 41
+Ends At 101
+::
+Line 41
+Section 111
+Starts At 41
+Ends At 101
+::
+Line 51
+Section 111
+Starts At 41
+Ends At 101
+::
+Line 61
+Section 111
+Starts At 41
+Ends At 101
+::
+Line 71
+Section 111
+Starts At 41
+Ends At 101
+
+=====
+
+
+Occurences 2 // '-12-2'
+Found at:
+::
+Line 11
+Section 11
+Starts At 41
+Ends At 91
+::
+Line 21
+Section 11
+Starts At 41
+Ends At 91
+
+=====
+
+
+Occurences 9 // '-1'
+Found at:
+::
+Line 11
+Section 11
+Starts At 41
+Ends At 61
+::
+Line 21
+Section 11
+Starts At 41
+Ends At 61
+::
+Line 31
+Section 11
+Starts At 41
+Ends At 61
+::
+Line 31
+Section 11
+Starts At 71
+Ends At 91
+::
+Line 41
+Section 11
+Starts At 41
+Ends At 61
+::
+Line 51
+Section 11
+Starts At 41
+Ends At 61
+::
+Line 61
+Section 11
+Starts At 41
+Ends At 61
+::
+Line 71
+Section 11
+Starts At 41
+Ends At 61
+::
+Line 71
+Section 11
+Starts At 71
+Ends At 91
+
+=====
+
+
+Occurences 4 // '-2'
+Found at:
+::
+Line 11
+Section 11
+Starts At 71
+Ends At 91
+::
+Line 21
+Section 11
+Starts At 71
+Ends At 91
+::
+Line 51
+Section 11
+Starts At 71
+Ends At 91
+::
+Line 61
+Section 11
+Starts At 71
+Ends At 91
+
+=====
+
+
+Occurences 2 // '.81'
+Found at:
+::
+Line 21
+Section 51
+Starts At 51
+Ends At 81
+::
+Line 71
+Section 81
+Starts At 41
+Ends At 71
+
+=====
+
+
+Occurences 7 // 'lba'
+Found at:
+::
+Line 11
+Section 131
+Starts At 11
+Ends At 41
+::
+Line 21
+Section 131
+Starts At 11
+Ends At 41
+::
+Line 31
+Section 131
+Starts At 11
+Ends At 41
+::
+Line 41
+Section 131
+Starts At 11
+Ends At 41
+::
+Line 51
+Section 131
+Starts At 11
+Ends At 41
+::
+Line 61
+Section 131
+Starts At 11
+Ends At 41
+::
+Line 71
+Section 131
+Starts At 11
+Ends At 41
+
+=====
+
+
+Occurences 7 // 'nventiona'
+Found at:
+::
+Line 11
+Section 111
+Starts At 21
+Ends At 111
+::
+Line 21
+Section 111
+Starts At 21
+Ends At 111
+::
+Line 31
+Section 111
+Starts At 21
+Ends At 111
+::
+Line 41
+Section 111
+Starts At 21
+Ends At 111
+::
+Line 51
+Section 111
+Starts At 21
+Ends At 111
+::
+Line 61
+Section 111
+Starts At 21
+Ends At 111
+::
+Line 71
+Section 111
+Starts At 21
+Ends At 111
+
+=====
+
+
+Occurences 2 // 'Large Bags'
+Found at:
+::
+Line 01
+Section 91
+Starts At 01
+Ends At 101
+::
+Line 01
+Section 101
+Starts At 11
+Ends At 111
+
+=====
+
+
+Occurences 2 // 'ge B'
+Found at:
+::
+Line 01
+Section 91
+Starts At 31
+Ends At 71
+::
+Line 01
+Section 101
+Starts At 41
+Ends At 81
+
+=====
+
+
+Occurences 7 // 'na'
+Found at:
+::
+Line 11
+Section 111
+Starts At 91
+Ends At 111
+::
+Line 21
+Section 111
+Starts At 91
+Ends At 111
+::
+Line 31
+Section 111
+Starts At 91
+Ends At 111
+::
+Line 41
+Section 111
+Starts At 91
+Ends At 111
+::
+Line 51
+Section 111
+Starts At 91
+Ends At 111
+::
+Line 61
+Section 111
+Starts At 91
+Ends At 111
+::
+Line 71
+Section 111
+Starts At 91
+Ends At 111
+
+=====
+
+
+Occurences 14 // '201'
+Found at:
+::
+Line 11
+Section 11
+Starts At 01
+Ends At 31
+::
+Line 11
+Section 121
+Starts At 01
+Ends At 31
+::
+Line 21
+Section 11
+Starts At 01
+Ends At 31
+::
+Line 21
+Section 121
+Starts At 01
+Ends At 31
+::
+Line 31
+Section 11
+Starts At 01
+Ends At 31
+::
+Line 31
+Section 121
+Starts At 01
+Ends At 31
+::
+Line 41
+Section 11
+Starts At 01
+Ends At 31
+::
+Line 41
+Section 121
+Starts At 01
+Ends At 31
+::
+Line 51
+Section 11
+Starts At 01
+Ends At 31
+::
+Line 51
+Section 121
+Starts At 01
+Ends At 31
+::
+Line 61
+Section 11
+Starts At 01
+Ends At 31
+::
+Line 61
+Section 121
+Starts At 01
+Ends At 31
+::
+Line 71
+Section 11
+Starts At 01
+Ends At 31
+::
+Line 71
+Section 121
+Starts At 01
+Ends At 31
+
+=====
+
+
+Occurences 2 // '1.2'
+Found at:
+::
+Line 51
+Section 21
+Starts At 01
+Ends At 31
+::
+Line 61
+Section 21
+Starts At 01
+Ends At 31
+
+=====
+
+
+Occurences 2 // '1.3'
+Found at:
+::
+Line 11
+Section 21
+Starts At 01
+Ends At 31
+::
+Line 21
+Section 21
+Starts At 01
+Ends At 31
+
+=====
+
+
+Occurences 7 // 'conventio'
+Found at:
+::
+Line 11
+Section 111
+Starts At 01
+Ends At 91
+::
+Line 21
+Section 111
+Starts At 01
+Ends At 91
+::
+Line 31
+Section 111
+Starts At 01
+Ends At 91
+::
+Line 41
+Section 111
+Starts At 01
+Ends At 91
+::
+Line 51
+Section 111
+Starts At 01
+Ends At 91
+::
+Line 61
+Section 111
+Starts At 01
+Ends At 91
+::
+Line 71
+Section 111
+Starts At 01
+Ends At 91
+
+=====
+
+
+Occurences 2 // '96.8'
+Found at:
+::
+Line 11
+Section 71
+Starts At 21
+Ends At 61
+::
+Line 71
+Section 81
+Starts At 21
+Ends At 61
+
+=====
+
+
+Occurences 2 // '9.6'
+Found at:
+::
+Line 31
+Section 51
+Starts At 51
+Ends At 81
+::
+Line 51
+Section 31
+Starts At 41
+Ends At 71
+
+=====
+
+
+Occurences 11 // '.0'
+Found at:
+::
+Line 11
+Section 101
+Starts At 11
+Ends At 31
+::
+Line 21
+Section 81
+Starts At 41
+Ends At 61
+::
+Line 21
+Section 101
+Starts At 11
+Ends At 31
+::
+Line 31
+Section 101
+Starts At 11
+Ends At 31
+::
+Line 41
+Section 21
+Starts At 11
+Ends At 31
+::
+Line 41
+Section 41
+Starts At 41
+Ends At 61
+::
+Line 41
+Section 101
+Starts At 11
+Ends At 31
+::
+Line 51
+Section 101
+Starts At 11
+Ends At 31
+::
+Line 61
+Section 101
+Starts At 11
+Ends At 31
+::
+Line 71
+Section 91
+Starts At 31
+Ends At 51
+::
+Line 71
+Section 101
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 4 // '.1'
+Found at:
+::
+Line 11
+Section 61
+Starts At 21
+Ends At 41
+::
+Line 31
+Section 91
+Starts At 31
+Ends At 51
+::
+Line 41
+Section 31
+Starts At 51
+Ends At 71
+::
+Line 41
+Section 71
+Starts At 41
+Ends At 61
+
+=====
+
+
+Occurences 9 // '.2'
+Found at:
+::
+Line 11
+Section 91
+Starts At 21
+Ends At 41
+::
+Line 21
+Section 41
+Starts At 31
+Ends At 51
+::
+Line 31
+Section 31
+Starts At 61
+Ends At 81
+::
+Line 31
+Section 81
+Starts At 41
+Ends At 61
+::
+Line 51
+Section 21
+Starts At 11
+Ends At 31
+::
+Line 51
+Section 81
+Starts At 41
+Ends At 61
+::
+Line 61
+Section 21
+Starts At 11
+Ends At 31
+::
+Line 61
+Section 41
+Starts At 41
+Ends At 61
+::
+Line 71
+Section 61
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 5 // '.3'
+Found at:
+::
+Line 11
+Section 21
+Starts At 11
+Ends At 31
+::
+Line 21
+Section 21
+Starts At 11
+Ends At 31
+::
+Line 21
+Section 61
+Starts At 21
+Ends At 41
+::
+Line 31
+Section 71
+Starts At 41
+Ends At 61
+::
+Line 51
+Section 51
+Starts At 51
+Ends At 71
+
+=====
+
+
+Occurences 7 // 'nt'
+Found at:
+::
+Line 11
+Section 111
+Starts At 51
+Ends At 71
+::
+Line 21
+Section 111
+Starts At 51
+Ends At 71
+::
+Line 31
+Section 111
+Starts At 51
+Ends At 71
+::
+Line 41
+Section 111
+Starts At 51
+Ends At 71
+::
+Line 51
+Section 111
+Starts At 51
+Ends At 71
+::
+Line 61
+Section 111
+Starts At 51
+Ends At 71
+::
+Line 71
+Section 111
+Starts At 51
+Ends At 71
+
+=====
+
+
+Occurences 6 // '.4'
+Found at:
+::
+Line 21
+Section 91
+Starts At 21
+Ends At 41
+::
+Line 41
+Section 51
+Starts At 51
+Ends At 71
+::
+Line 41
+Section 81
+Starts At 41
+Ends At 61
+::
+Line 51
+Section 41
+Starts At 31
+Ends At 51
+::
+Line 61
+Section 81
+Starts At 41
+Ends At 61
+::
+Line 61
+Section 91
+Starts At 31
+Ends At 51
+
+=====
+
+
+Occurences 3 // '.5'
+Found at:
+::
+Line 21
+Section 71
+Starts At 41
+Ends At 61
+::
+Line 31
+Section 61
+Starts At 31
+Ends At 51
+::
+Line 41
+Section 61
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 4 // ' Bag'
+Found at:
+::
+Line 01
+Section 71
+Starts At 51
+Ends At 91
+::
+Line 01
+Section 81
+Starts At 51
+Ends At 91
+::
+Line 01
+Section 91
+Starts At 51
+Ends At 91
+::
+Line 01
+Section 101
+Starts At 61
+Ends At 101
+
+=====
+
+
+Occurences 6 // '.6'
+Found at:
+::
+Line 11
+Section 31
+Starts At 51
+Ends At 71
+::
+Line 11
+Section 81
+Starts At 41
+Ends At 61
+::
+Line 31
+Section 51
+Starts At 61
+Ends At 81
+::
+Line 51
+Section 31
+Starts At 51
+Ends At 71
+::
+Line 51
+Section 91
+Starts At 31
+Ends At 51
+::
+Line 61
+Section 61
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 7 // 'nv'
+Found at:
+::
+Line 11
+Section 111
+Starts At 21
+Ends At 41
+::
+Line 21
+Section 111
+Starts At 21
+Ends At 41
+::
+Line 31
+Section 111
+Starts At 21
+Ends At 41
+::
+Line 41
+Section 111
+Starts At 21
+Ends At 41
+::
+Line 51
+Section 111
+Starts At 21
+Ends At 41
+::
+Line 61
+Section 111
+Starts At 21
+Ends At 41
+::
+Line 71
+Section 111
+Starts At 21
+Ends At 41
+
+=====
+
+
+Occurences 7 // 'ional'
+Found at:
+::
+Line 11
+Section 111
+Starts At 71
+Ends At 121
+::
+Line 21
+Section 111
+Starts At 71
+Ends At 121
+::
+Line 31
+Section 111
+Starts At 71
+Ends At 121
+::
+Line 41
+Section 111
+Starts At 71
+Ends At 121
+::
+Line 51
+Section 111
+Starts At 71
+Ends At 121
+::
+Line 61
+Section 111
+Starts At 71
+Ends At 121
+::
+Line 71
+Section 111
+Starts At 71
+Ends At 121
+
+=====
+
+
+Occurences 7 // '.7'
+Found at:
+::
+Line 11
+Section 41
+Starts At 41
+Ends At 61
+::
+Line 31
+Section 41
+Starts At 31
+Ends At 51
+::
+Line 41
+Section 91
+Starts At 31
+Ends At 51
+::
+Line 51
+Section 61
+Starts At 21
+Ends At 41
+::
+Line 61
+Section 31
+Starts At 51
+Ends At 71
+::
+Line 71
+Section 31
+Starts At 51
+Ends At 71
+::
+Line 71
+Section 51
+Starts At 51
+Ends At 71
+
+=====
+
+
+Occurences 5 // '.8'
+Found at:
+::
+Line 11
+Section 51
+Starts At 51
+Ends At 71
+::
+Line 11
+Section 71
+Starts At 41
+Ends At 61
+::
+Line 21
+Section 51
+Starts At 51
+Ends At 71
+::
+Line 71
+Section 71
+Starts At 41
+Ends At 61
+::
+Line 71
+Section 81
+Starts At 41
+Ends At 61
+
+=====
+
+
+Occurences 7 // 'ny'
+Found at:
+::
+Line 11
+Section 131
+Starts At 41
+Ends At 61
+::
+Line 21
+Section 131
+Starts At 41
+Ends At 61
+::
+Line 31
+Section 131
+Starts At 41
+Ends At 61
+::
+Line 41
+Section 131
+Starts At 41
+Ends At 61
+::
+Line 51
+Section 131
+Starts At 41
+Ends At 61
+::
+Line 61
+Section 131
+Starts At 41
+Ends At 61
+::
+Line 71
+Section 131
+Starts At 41
+Ends At 61
+
+=====
+
+
+Occurences 7 // '.9'
+Found at:
+::
+Line 21
+Section 31
+Starts At 51
+Ends At 71
+::
+Line 31
+Section 21
+Starts At 11
+Ends At 31
+::
+Line 51
+Section 71
+Starts At 41
+Ends At 61
+::
+Line 61
+Section 51
+Starts At 51
+Ends At 71
+::
+Line 61
+Section 71
+Starts At 41
+Ends At 61
+::
+Line 71
+Section 21
+Starts At 11
+Ends At 31
+::
+Line 71
+Section 41
+Starts At 41
+Ends At 61
+
+=====
+
+
+Occurences 2 // 'rge Ba'
+Found at:
+::
+Line 01
+Section 91
+Starts At 21
+Ends At 81
+::
+Line 01
+Section 101
+Starts At 31
+Ends At 91
+
+=====
+
+
+Occurences 2 // '.99'
+Found at:
+::
+Line 61
+Section 51
+Starts At 51
+Ends At 81
+::
+Line 71
+Section 21
+Starts At 11
+Ends At 41
+
+=====
+
+
+Occurences 2 // '11-2'
+Found at:
+::
+Line 51
+Section 11
+Starts At 51
+Ends At 91
+::
+Line 61
+Section 11
+Starts At 51
+Ends At 91
+
+=====
+
+
+Occurences 7 // 'tional'
+Found at:
+::
+Line 11
+Section 111
+Starts At 61
+Ends At 121
+::
+Line 21
+Section 111
+Starts At 61
+Ends At 121
+::
+Line 31
+Section 111
+Starts At 61
+Ends At 121
+::
+Line 41
+Section 111
+Starts At 61
+Ends At 121
+::
+Line 51
+Section 111
+Starts At 61
+Ends At 121
+::
+Line 61
+Section 111
+Starts At 61
+Ends At 121
+::
+Line 71
+Section 111
+Starts At 61
+Ends At 121
+
+=====
+
+
+Occurences 2 // 'e Ba'
+Found at:
+::
+Line 01
+Section 91
+Starts At 41
+Ends At 81
+::
+Line 01
+Section 101
+Starts At 51
+Ends At 91
+
+=====
+
+
+Occurences 7 // 'Alba'
+Found at:
+::
+Line 11
+Section 131
+Starts At 01
+Ends At 41
+::
+Line 21
+Section 131
+Starts At 01
+Ends At 41
+::
+Line 31
+Section 131
+Starts At 01
+Ends At 41
+::
+Line 41
+Section 131
+Starts At 01
+Ends At 41
+::
+Line 51
+Section 131
+Starts At 01
+Ends At 41
+::
+Line 61
+Section 131
+Starts At 01
+Ends At 41
+::
+Line 71
+Section 131
+Starts At 01
+Ends At 41
+
+=====
+
+
+Occurences 7 // 'entiona'
+Found at:
+::
+Line 11
+Section 111
+Starts At 41
+Ends At 111
+::
+Line 21
+Section 111
+Starts At 41
+Ends At 111
+::
+Line 31
+Section 111
+Starts At 41
+Ends At 111
+::
+Line 41
+Section 111
+Starts At 41
+Ends At 111
+::
+Line 51
+Section 111
+Starts At 41
+Ends At 111
+::
+Line 61
+Section 111
+Starts At 41
+Ends At 111
+::
+Line 71
+Section 111
+Starts At 41
+Ends At 111
+
+=====
+
+
+Occurences 15 // 'on'
+Found at:
+::
+Line 01
+Section 131
+Starts At 41
+Ends At 61
+::
+Line 11
+Section 111
+Starts At 11
+Ends At 31
+::
+Line 11
+Section 111
+Starts At 81
+Ends At 101
+::
+Line 21
+Section 111
+Starts At 11
+Ends At 31
+::
+Line 21
+Section 111
+Starts At 81
+Ends At 101
+::
+Line 31
+Section 111
+Starts At 11
+Ends At 31
+::
+Line 31
+Section 111
+Starts At 81
+Ends At 101
+::
+Line 41
+Section 111
+Starts At 11
+Ends At 31
+::
+Line 41
+Section 111
+Starts At 81
+Ends At 101
+::
+Line 51
+Section 111
+Starts At 11
+Ends At 31
+::
+Line 51
+Section 111
+Starts At 81
+Ends At 101
+::
+Line 61
+Section 111
+Starts At 11
+Ends At 31
+::
+Line 61
+Section 111
+Starts At 81
+Ends At 101
+::
+Line 71
+Section 111
+Starts At 11
+Ends At 31
+::
+Line 71
+Section 111
+Starts At 81
+Ends At 101
+
+=====
+
+
+Occurences 7 // 'conven'
+Found at:
+::
+Line 11
+Section 111
+Starts At 01
+Ends At 61
+::
+Line 21
+Section 111
+Starts At 01
+Ends At 61
+::
+Line 31
+Section 111
+Starts At 01
+Ends At 61
+::
+Line 41
+Section 111
+Starts At 01
+Ends At 61
+::
+Line 51
+Section 111
+Starts At 01
+Ends At 61
+::
+Line 61
+Section 111
+Starts At 01
+Ends At 61
+::
+Line 71
+Section 111
+Starts At 01
+Ends At 61
+
+=====
+
+
+Occurences 7 // 'onventi'
+Found at:
+::
+Line 11
+Section 111
+Starts At 11
+Ends At 81
+::
+Line 21
+Section 111
+Starts At 11
+Ends At 81
+::
+Line 31
+Section 111
+Starts At 11
+Ends At 81
+::
+Line 41
+Section 111
+Starts At 11
+Ends At 81
+::
+Line 51
+Section 111
+Starts At 11
+Ends At 81
+::
+Line 61
+Section 111
+Starts At 11
+Ends At 81
+::
+Line 71
+Section 111
+Starts At 11
+Ends At 81
+
+=====
+
+
+Occurences 2 // '-11-2'
+Found at:
+::
+Line 51
+Section 11
+Starts At 41
+Ends At 91
+::
+Line 61
+Section 11
+Starts At 41
+Ends At 91
+
+=====
+
+
+Occurences 2 // 'ot'
+Found at:
+::
+Line 01
+Section 31
+Starts At 11
+Ends At 31
+::
+Line 01
+Section 71
+Starts At 11
+Ends At 31
+
+=====
+
+
+Occurences 2 // 'Large Bag'
+Found at:
+::
+Line 01
+Section 91
+Starts At 01
+Ends At 91
+::
+Line 01
+Section 101
+Starts At 11
+Ends At 101
+
+=====
+
+
+Occurences 4 // 'Bag'
+Found at:
+::
+Line 01
+Section 71
+Starts At 61
+Ends At 91
+::
+Line 01
+Section 81
+Starts At 61
+Ends At 91
+::
+Line 01
+Section 91
+Starts At 61
+Ends At 91
+::
+Line 01
+Section 101
+Starts At 71
+Ends At 101
+
+=====
+
+
+Occurences 7 // 'any'
+Found at:
+::
+Line 11
+Section 131
+Starts At 31
+Ends At 61
+::
+Line 21
+Section 131
+Starts At 31
+Ends At 61
+::
+Line 31
+Section 131
+Starts At 31
+Ends At 61
+::
+Line 41
+Section 131
+Starts At 31
+Ends At 61
+::
+Line 51
+Section 131
+Starts At 31
+Ends At 61
+::
+Line 61
+Section 131
+Starts At 31
+Ends At 61
+::
+Line 71
+Section 131
+Starts At 31
+Ends At 61
+
+=====
+
+
+Occurences 7 // '0.0'
+Found at:
+::
+Line 11
+Section 101
+Starts At 01
+Ends At 31
+::
+Line 21
+Section 101
+Starts At 01
+Ends At 31
+::
+Line 31
+Section 101
+Starts At 01
+Ends At 31
+::
+Line 41
+Section 101
+Starts At 01
+Ends At 31
+::
+Line 51
+Section 101
+Starts At 01
+Ends At 31
+::
+Line 61
+Section 101
+Starts At 01
+Ends At 31
+::
+Line 71
+Section 101
+Starts At 01
+Ends At 31
+
+=====
+
+
+Occurences 3 // '103'
+Found at:
+::
+Line 11
+Section 41
+Starts At 01
+Ends At 31
+::
+Line 31
+Section 91
+Starts At 01
+Ends At 31
+::
+Line 51
+Section 31
+Starts At 11
+Ends At 41
+
+=====
+
+
+Occurences 7 // 'conventional'
+Found at:
+::
+Line 11
+Section 111
+Starts At 01
+Ends At 121
+::
+Line 21
+Section 111
+Starts At 01
+Ends At 121
+::
+Line 31
+Section 111
+Starts At 01
+Ends At 121
+::
+Line 41
+Section 111
+Starts At 01
+Ends At 121
+::
+Line 51
+Section 111
+Starts At 01
+Ends At 121
+::
+Line 61
+Section 111
+Starts At 01
+Ends At 121
+::
+Line 71
+Section 111
+Starts At 01
+Ends At 121
+
+=====
+
+
+Occurences 2 // 'Total'
+Found at:
+::
+Line 01
+Section 31
+Starts At 01
+Ends At 51
+::
+Line 01
+Section 71
+Starts At 01
+Ends At 51
+
+=====
+
+
+Occurences 2 // 'rge Bags'
+Found at:
+::
+Line 01
+Section 91
+Starts At 21
+Ends At 101
+::
+Line 01
+Section 101
+Starts At 31
+Ends At 111
+
+=====
+
+
+Occurences 2 // '0.9'
+Found at:
+::
+Line 31
+Section 21
+Starts At 01
+Ends At 31
+::
+Line 71
+Section 21
+Starts At 01
+Ends At 31
+
+=====
+
+
+Occurences 2 // 'Large Ba'
+Found at:
+::
+Line 01
+Section 91
+Starts At 01
+Ends At 81
+::
+Line 01
+Section 101
+Starts At 11
+Ends At 91
+
+=====
+
+
+Occurences 2 // '8.3'
+Found at:
+::
+Line 21
+Section 61
+Starts At 11
+Ends At 41
+::
+Line 51
+Section 51
+Starts At 41
+Ends At 71
+
+=====
+
+
+Occurences 11 // '0.'
+Found at:
+::
+Line 11
+Section 101
+Starts At 01
+Ends At 21
+::
+Line 21
+Section 101
+Starts At 01
+Ends At 21
+::
+Line 31
+Section 21
+Starts At 01
+Ends At 21
+::
+Line 31
+Section 31
+Starts At 51
+Ends At 71
+::
+Line 31
+Section 61
+Starts At 21
+Ends At 41
+::
+Line 31
+Section 101
+Starts At 01
+Ends At 21
+::
+Line 41
+Section 101
+Starts At 01
+Ends At 21
+::
+Line 51
+Section 101
+Starts At 01
+Ends At 21
+::
+Line 61
+Section 101
+Starts At 01
+Ends At 21
+::
+Line 71
+Section 21
+Starts At 01
+Ends At 21
+::
+Line 71
+Section 101
+Starts At 01
+Ends At 21
+
+=====
+
+
+*****Operation Completed. Time Elapsed: 95ms
