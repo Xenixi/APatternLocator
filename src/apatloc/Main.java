@@ -8,6 +8,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
@@ -15,12 +16,20 @@ import java.util.Scanner;
 
 public class Main {
 	public static void main(String[] args) throws InterruptedException {
+		final long version = 100l;
 		
 		Scanner input = new Scanner(System.in);
 		try {
+			//config
+			ConfigurationManager.initiate();
+			ConfigurationManager.put("version", Long.toString(version));
+			ConfigurationManager.put("dogs", "cow");
+			ConfigurationManager.put("zzzz", "yes");
+			ConfigurationManager.put("aaa", "hello");
+			
 			while (true) {
 
-				long version = 100l;
+				
 
 				System.out.println("A Pattern Locator | Version: " + (double) version / 100);
 
