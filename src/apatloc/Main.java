@@ -8,28 +8,110 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Scanner;
 
-public class Main {
-	public static void main(String[] args) throws InterruptedException {
-		final long version = 100l;
-		
-		Scanner input = new Scanner(System.in);
-		try {
-			//config
-			ConfigurationManager.initiate();
-			ConfigurationManager.put("version", Long.toString(version));
-			ConfigurationManager.put("dogs", "cow");
-			ConfigurationManager.put("zzzz", "yes");
-			ConfigurationManager.put("aaa", "hello");
-			
-			while (true) {
+import org.ini4j.Ini;
+import org.ini4j.Wini;
+import org.ini4j.Profile.Section;
 
-				
+public class Main {
+
+	static final long version = 100l;
+	static final File configFile = new File("settings.ini");
+	static Ini config;
+
+	public static void main(String[] args) throws InterruptedException {
+
+		Scanner input = new Scanner(System.in);
+
+		try {
+			// configuration
+
+			if (!configFile.exists() || configFile.isDirectory()) {
+				configFile.createNewFile();
+			}
+
+			config = new Ini(configFile);
+
+			config.put("System", "Version", version);
+			if (config.get("System", "TimesRun") == null) {
+				config.put("System", "TimesRun", 1);
+			} else {
+				config.put("System", "TimesRun", config.get("System", "TimesRun", Integer.class) + 1);
+			}
+
+			if(config.get("Run.Settings") == null) 
+				config.add("Run.Settings");
+			
+			if(config.get("CSV.Settings") == null) 
+				config.add("CSV.Settings");
+			
+			if(config.get("RunConstraints.Settings") == null) 	
+				config.add("RunConstraints.Settings");
+			
+			if(config.get("MultiFileComparison.Settings") == null) 
+				config.add("MultiFileComparison.Settings");
+			
+			if(config.get("FileLabels.Settings") == null) 
+				config.add("FileLabels.Settings");
+
+			// Run Settings
+			Ini.Section runSettings = config.get("Run.Settings");
+			runSettings.putIfAbsent("Mode.CSV", "True");
+			runSettings.putIfAbsent("Mode.Constraints", "False");
+			runSettings.putIfAbsent("Mode.MultiFileComparison", "False");
+			runSettings.putIfAbsent("Mode.LabelFiles", "False");
+
+			config.put("Run.Settings", runSettings);
+
+			// CSV Settings
+			Ini.Section modeCSV = config.get("CSV.Settings");
+			modeCSV.putIfAbsent("BypassFirstLine", "True");
+			modeCSV.putIfAbsent("LinkResultsWithHeaderCategories", "True");
+			
+
+			config.put("CSV.Settings", modeCSV);
+
+			// RunConstraint Settings
+			Ini.Section modeConstraints = config.get("RunConstraints.Settings");
+			modeConstraints.putIfAbsent("EnableLineConstraints", "True");
+			modeConstraints.putIfAbsent("EnableCategoryConstraints", "True");
+
+			modeConstraints.putIfAbsent("Line.Start", "1");
+			modeConstraints.putIfAbsent("Line.End", "100");
+			modeConstraints.putIfAbsent("Line.SpecifiedOnly", "False");
+			modeConstraints.putIfAbsent("Line.SpecificLines", "1,5,17,29,107");
+			modeConstraints.putIfAbsent("Category.Start", "1");
+			modeConstraints.putIfAbsent("Category.End", "4");
+			modeConstraints.putIfAbsent("Category.SpecifiedOnly", "False");
+			modeConstraints.putIfAbsent("Category.SpecificCategories", "1,5,6");
+
+			config.put("RunConstraints.Settings", modeConstraints);
+
+			// MultiFileComparison Settings
+			Ini.Section modeMultiFile = config.get("MultiFileComparison.Settings");
+			modeMultiFile.putIfAbsent("MultiFile.ValidTypes", "CSV,TXT,LOG");
+			modeMultiFile.putIfAbsent("MultiFile.InnerFolders", "False");
+
+			config.put("MultiFileComparison.Settings", modeMultiFile);
+
+			// FileLabels Settings
+			Ini.Section modeLabelFiles = config.get("FileLabels.Settings");
+
+			modeLabelFiles.putIfAbsent("Dataset.Title", "Default Title");
+			modeLabelFiles.putIfAbsent("Dataset.Author", "Default Author");
+			modeLabelFiles.putIfAbsent("Dataset.ProjectName", "Default Project Name");
+			modeLabelFiles.putIfAbsent("Dataset.Number", "1");
+
+			config.put("FileLabels.Settings", modeLabelFiles);
+
+			config.store();
+
+			// main loop
+			while (true) {
 
 				System.out.println("A Pattern Locator | Version: " + (double) version / 100);
 
